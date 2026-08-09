@@ -1,0 +1,77 @@
+The GeoFS Global Traffic addon is a massive, performance-optimized JavaScript extension that brings the world of GeoFS to life. Featuring a staggering **1,247 unique, hand-placed models**, this addon dynamically populates the environment around you as you fly, offering unprecedented immersion without tanking your framerate.
+
+Designed for ease of use, it injects a custom control panel directly into your native GeoFS settings menu, allowing you to manage traffic density and toggle the system on the fly.
+
+**Global Hub Coverage:**
+Traffic has been meticulously hand-placed and is currently active at the following 58 major airports worldwide:
+
+KLAX
+KBOS
+KEWR
+KORD
+CYYZ
+CYUL
+CYVR
+MMMX
+MMUN
+PANC
+SBGR
+SKBO
+SPJC
+SCEL
+SAEZ
+SBGL
+MPTO
+HECA
+FAOR
+HAAB
+GMMN
+DAAG
+HKJK
+DNMM
+DTTA
+EGLL
+EHAM
+LFTM
+LFPG
+EDDF
+LEMD
+LIRF
+UUEE
+LPPT
+EIDW
+OMDB
+RJTT
+ZSPD
+VIDP
+WSSS
+WIII
+WMKK
+VTBS
+OTHH
+ZKPY
+YSSY
+YMML
+NZAA
+NFFN
+VRMM
+LGSR
+LEPA
+GCTS
+LGSK
+KDJT
+PHNL
+RPVE
+ENOE
+
+**Key Features:**
+
+* **Massive Scale & Precision:** 1,247 individual aircraft models, each meticulously hand-placed to ensure highly accurate and realistic ground and local traffic patterns.
+* **Smart Proximity Spawning:** Models only render when you fly within a 30km radius. The script scans your location every 3 seconds, seamlessly generating nearby traffic while actively deleting models you've left behind to protect your hardware.
+* **Seamless UI Integration:** Adds a custom "Global Traffic" dropdown to the native GeoFS preferences list.
+* **Adjustable Traffic Density:** Tailor the experience to your PC's hardware. Choose between Low (33%), Medium (66%), or High (100%) spawn limits.
+* **Persistent Settings:** Your toggle states and density preferences are saved locally to your browser cache, meaning it remembers exactly how you like it for your next flight.
+* **Community Driven:** Includes a built-in Discord button to instantly connect with the addon community for updates, feature requests, and bug reports.
+
+**Technical Details for Developers:**
+This script operates using an Immediately Invoked Function Expression (IIFE) to avoid polluting the global GeoFS namespace. It leverages the native Cesium API to handle entity injection and calculates distance using `Cartesian3` coordinates. Memory leaks are prevented by tracking active 3D models in a JavaScript `Map`, ensuring duplicate entities are never spawned and out-of-bounds entities are aggressively garbage-collected.
