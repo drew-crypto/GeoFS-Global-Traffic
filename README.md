@@ -4,6 +4,8 @@ Adds planes all around the globe in GeoFS
 
 Here are the steps in order to correctly implement the Global Traffic add-on into GeoFS:
 
+So in the begginning you want to copy and paste the code in "main.js" into the GeoFS console or Tampermonkey extension. Then:
+
 
 1st: Access the "options" panel in-game.
 ![Option panel 1](https://github.com/drew-crypto/GeoFS-Global-Traffic/blob/48f6759b17a1840a990c17057ccc837d38033e8f/Images/Capture%20d'%C3%A9cran%202026-08-09%20203733.png)
