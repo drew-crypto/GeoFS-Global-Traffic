@@ -30,3 +30,15 @@ Change the density of aircrafts in the render zone attributed and join the disco
 
 ![Settings 4](https://github.com/drew-crypto/GeoFS-Global-Traffic/blob/main/Images/Capture%20d'%C3%A9cran%202026-08-09%20203901.png?raw=true)
 
+At HKJK airport: 
+Low (33%): 
+
+![Settings 5](https://github.com/drew-crypto/GeoFS-Global-Traffic/blob/5e9bb897ca7444f97545c591e28327e475bfc3d4/Images/Capture%20d'%C3%A9cran%202026-08-09%20212354.png)
+
+Medium (66%): 
+
+![Settings 6](https://github.com/drew-crypto/GeoFS-Global-Traffic/blob/5e9bb897ca7444f97545c591e28327e475bfc3d4/Images/Capture%20d'%C3%A9cran%202026-08-09%20212424.png)
+
+High (100%):
+
+![Settings 6](https://github.com/drew-crypto/GeoFS-Global-Traffic/blob/5e9bb897ca7444f97545c591e28327e475bfc3d4/Images/Capture%20d'%C3%A9cran%202026-08-09%20212459.png)
