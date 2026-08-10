@@ -274,7 +274,7 @@
         const ytBtn = document.getElementById('youtubeLinkButton');
         if (ytBtn) {
             ytBtn.addEventListener('click', () => {
-                window.open('https://youtube.com/@geofsglobaltraffic?si=X4HT6CkcOLUGcjGX', '_blank');
+                window.open('https://www.youtube.com/channel/UCOH4Fa2Oz1zgb6sFaHrJEzQ', '_blank');
                 console.log(TAG, "Opened YouTube Link");
             });
         }
