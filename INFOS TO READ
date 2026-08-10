@@ -5,66 +5,68 @@ Designed for ease of use, it injects a custom control panel directly into your n
 **Global Hub Coverage:**
 
 Traffic has been meticulously hand-placed and is currently active at the following 58 major airports worldwide:
-KLAX
-KBOS
-KEWR
-KORD
-CYYZ
-CYUL
-CYVR
-MMMX
-MMUN
-PANC
-SBGR
-SKBO
-SPJC
-SCEL
-SAEZ
-SBGL
-MPTO
-HECA
-FAOR
-HAAB
-GMMN
-DAAG
-HKJK
-DNMM
-DTTA
-EGLL
-EHAM
-LFTM
-LFPG
-EDDF
-LEMD
-LIRF
-UUEE
-LPPT
-EIDW
-OMDB
-RJTT
-ZSPD
-VIDP
-WSSS
-WIII
-WMKK
-VTBS
-OTHH
-ZKPY
-YSSY
-YMML
-NZAA
-NFFN
-VRMM
-LGSR
-LEPA
-GCTS
-LGSK
-KDJT
-PHNL
-RPVE
-ENOE
 
-All airlines featured: Aegean
+* **KLAX/LAX** ( Los Angeles International Airport )
+* **KBOS/BOS** ( General Edward Lawrence Logan International Airport )
+* **KEWR/EWR** ( Newark Liberty International Airport )
+* **KORD/ORD** ( Chicago O'Hare International Airport )
+* **CYYZ/YYZ** ( Toronto Pearson International Airport )
+* **CYUL/YUL** ( Montréal-Pierre Elliott Trudeau International Airport )
+* **CYVR/YVR** ( Vancouver International Airport )
+* **MMMX/MEX** ( Mexico City International Airport )
+* **MMUN/CUN** ( Cancún International Airport )
+* **PANC/ANC** ( Ted Stevens Anchorage International Airport )
+* **SBGR/GRU** ( São Paulo/Guarulhos–Governor André Franco Montoro International Airport )
+* **SKBO/BOG** ( El Dorado International Airport )
+* **SPJC/LIM** ( Jorge Chávez International Airport )
+* **SCEL/SCL** ( Arturo Merino Benítez International Airport )
+* **SAEZ/EZE** ( Ministro Pistarini International Airport )
+* **SBGL/GIG** ( Rio de Janeiro/Galeão–Antonio Carlos Jobim International Airport )
+* **MPTO/PTY** ( Tocumen International Airport )
+* **HECA/CAI** ( Cairo International Airport )
+* **FAOR/JNB** ( O. R. Tambo International Airport )
+* **HAAB/ADD** ( Addis Ababa Bole International Airport )
+* **GMMN/CMN** ( Mohammed V International Airport )
+* **DAAG/ALG** ( Houari Boumediene Airport )
+* **HKJK/NBO** ( Jomo Kenyatta International Airport )
+* **DNMM/LOS** ( Murtala Muhammed International Airport )
+* **DTTA/TUN** ( Tunis-Carthage International Airport )
+* **EGLL/LHR** ( Heathrow Airport )
+* **EHAM/AMS** ( Amsterdam Airport Schiphol )
+* **LFTM/IST** ( Istanbul Airport ) — *Note: LFTM is likely a typo for LTFM (Istanbul Airport). LFTM is actually a small French airfield without an IATA code.*
+* **LFPG/CDG** ( Paris Charles de Gaulle Airport )
+* **EDDF/FRA** ( Frankfurt Airport )
+* **LEMD/MAD** ( Adolfo Suárez Madrid–Barajas Airport )
+* **LIRF/FCO** ( Rome Leonardo da Vinci–Fiumicino Airport )
+* **UUEE/SVO** ( Sheremetyevo International Airport )
+* **LPPT/LIS** ( Humberto Delgado Airport )
+* **EIDW/DUB** ( Dublin Airport )
+* **OMDB/DXB** ( Dubai International Airport )
+* **RJTT/HND** ( Tokyo Haneda Airport )
+* **ZSPD/PVG** ( Shanghai Pudong International Airport )
+* **VIDP/DEL** ( Indira Gandhi International Airport )
+* **WSSS/SIN** ( Singapore Changi Airport )
+* **WIII/CGK** ( Soekarno-Hatta International Airport )
+* **WMKK/KUL** ( Kuala Lumpur International Airport )
+* **VTBS/BKK** ( Suvarnabhumi Airport )
+* **OTHH/DOH** ( Hamad International Airport )
+* **ZKPY/FNJ** ( Pyongyang Sunan International Airport )
+* **YSSY/SYD** ( Sydney Kingsford Smith Airport )
+* **YMML/MEL** ( Melbourne Airport )
+* **NZAA/AKL** ( Auckland Airport )
+* **NFFN/NAN** ( Nadi International Airport )
+* **VRMM/MLE** ( Velana International Airport )
+* **LGSR/JTR** ( Santorini (Thira) International Airport )
+* **LEPA/PMI** ( Palma de Mallorca Airport )
+* **GCTS/TFS** ( Tenerife South Airport )
+* **LGSK/JSI** ( Skiathos International Airport Alexandros Papadiamantis )
+* **KDJT/PBI** ( President Donald J. Trump International Airport )
+* **PHNL/HNL** ( Daniel K. Inouye International Airport )
+* **RPVE/MPH** ( Godofredo P. Ramos Airport )
+* **ENOE/QAT** ( Troll Airfield )
+
+All airlines featured:
+Aegean
 Aer Lingus
 Aeroflot
 Aeromexico
@@ -77,15 +79,15 @@ Air France
 Air India
 Air Koryo
 Air New Zealand
-Alaska
+Alaska Airlines
 Allegiant Air
 Alliance Air
-American
+American Airlines
 ANA
-Asiana
+Asiana Airlines
 Austrian
 Azul
-Bangladesh
+Biman Bangladesh
 British Airways
 Brussels Airlines
 Cathay Pacific
@@ -96,11 +98,11 @@ Condor
 Corsair
 Easyjet
 Emirates
-Ethiopian
+Ethiopian Airlines
 Etihad
 Eurowings
 Eva Air
-Fiji
+Fiji Airways
 Frontier
 Garuda Indonesia
 Hawaiian
@@ -118,33 +120,33 @@ KLM Cityhopper
 Korean Air
 Lufthansa
 Malaysia Airlines
-Norse
+Norse Atlantic Airways
 Norwegian
 Philippines Airlines
 PIA
 Qantas
-Qatar
+Qatar Airways
 Royal Air Maroc
 Ryanair
 SAS
 Saudia
-Singapore
+Singapore Airlines
 SKY
-South African
+South African Airways
 Southwest
 Sri Lankan
 Swiss
-TAP
-Thai
+TAP Air Portugal
+Thai Airways
 Tunisair
-Turkish
-United
+Turkish Airways
+United Airlines
 Vietnam Airlines
 Virgin Atlantic
 Volaris
 Vueling
 Westjet
-Wizz
+Wizz Air
 
 **Key Features:**
 
