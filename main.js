@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         GLOBAL TRAFFIC 
+// @name         GLOBAL TRAFFIC
 // @namespace    http://tampermonkey.net/
 // @version      2026-07-06
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.geo-fs.com/geofs.php?v=3.9
+// @match        https://beta.geo-fs.com/geofs.php?a=22
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @grant        none
 // ==/UserScript==
@@ -438,7 +439,7 @@
 },
 {
     name:        "KLAX Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
     visualLat:   33.940084, visualLon: -118.401874,
     alt:         21.8,      visualAlt: 21.8,
     heading:     240,
@@ -518,7 +519,7 @@
 },
 {
     name:        "KLAX Japan Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
     visualLat:   33.940350, visualLon: -118.410406,
     alt:         22,        visualAlt: 22,
     heading:     330,
@@ -661,7 +662,7 @@
     },
 {
     name:        "KBOS Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
     visualLat:   42.368651, visualLon: -71.015158,
     alt:         1.7,       visualAlt: 1.7,
     heading:     130,
@@ -843,7 +844,7 @@
 },
 {
     name:        "KEWR Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
     visualLat:   40.689746, visualLon: -74.174878,
     alt:         3.6,       visualAlt: 3.6,
     heading:     220,
@@ -899,7 +900,7 @@
 },
 {
     name:        "KEWR Japan Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
     visualLat:   40.695501, visualLon: -74.172773,
     alt:         3.6,       visualAlt: 3.6,
     heading:     240,
@@ -1129,7 +1130,7 @@
     },
     {
     name:        "KORD Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
     visualLat:   41.979404, visualLon: -87.911073,
     alt:         98.4,      visualAlt: 98.4,
     heading:     50,
@@ -1409,7 +1410,7 @@
     },
     {
         name:        "CYYZ Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
         visualLat:   43.685804, visualLon: -79.622874,
         alt:         82,        visualAlt: 82,
         heading:     40,
@@ -1489,7 +1490,7 @@
     },
     {
         name:        "CYYZ Egyptair",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
         visualLat:   43.679650, visualLon: -79.607787,
         alt:         82,        visualAlt: 82,
         heading:     135,
@@ -1680,7 +1681,7 @@
     },
     {
         name:        "CYUL Ethiopian",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
         visualLat:   45.458038, visualLon: -73.745347,
         alt:         14.57,     visualAlt: 14.57,
         heading:     270,
@@ -1781,7 +1782,7 @@
     },
     {
         name:        "CYVR Japan Airlines",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
         visualLat:   49.192039, visualLon: -123.182053,
         alt:         1.75,      visualAlt: 1.75,
         heading:     280,
@@ -2322,7 +2323,7 @@
     },
     {
         name:        "SBGR Ethiopian",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
         visualLat:   -23.426612, visualLon: -46.477063,
         alt:         375.15,    visualAlt: 375.15,
         heading:     168,
@@ -2398,7 +2399,7 @@
     },
     {
         name:        "SKBO Azul",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-24@main/models/Azul%20A330.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Azul%20A320.glb",
         visualLat:   4.699777,   visualLon: -74.141283,
         alt:         1271.5,     visualAlt: 1271.5,
         heading:     125,
@@ -2406,7 +2407,7 @@
     },
     {
         name:        "SKBO Azul",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-24@main/models/Azul%20A330.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Azul%20A320.glb",
         visualLat:   4.699276,   visualLon: -74.140800,
         alt:         1271.5,     visualAlt: 1271.5,
         heading:     125,
@@ -2473,7 +2474,7 @@
     },
     {
         name:        "SKBO Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
         visualLat:   4.698605, visualLon: -74.144736,
         alt:         1271.5,   visualAlt: 1271.5,
         heading:     124,
@@ -2550,7 +2551,7 @@
     },
     {
         name:        "SPJC Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         visualLat:   -12.031476, visualLon: -77.118218,
         alt:         12.1,       visualAlt: 12.1,
         heading:     339,
@@ -3018,7 +3019,7 @@
     // Lufthansa
     {
         name:        "EGLL Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         visualLat:   51.4684,   visualLon: -0.450433,
         alt:         12.4,      visualAlt: 12.4,
         heading:     270,
@@ -3106,7 +3107,7 @@
     // Japan Airlines
     {
         name:        "EGLL Japan Airlines",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
         visualLat:   51.46865,  visualLon: -0.458297,
         alt:         12.4,      visualAlt: 12.4,
         heading:     270,
@@ -3114,7 +3115,7 @@
     },
     {
         name:        "EGLL Japan Airlines",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
         visualLat:   51.46865,  visualLon: -0.456999,
         alt:         12.4,      visualAlt: 12.4,
         heading:     270,
@@ -3234,7 +3235,7 @@
     // Kenya Airways
     {
         name:        "EGLL Kenya Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Kenya%20airways%20B737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Kenya%20Airways%20B787.glb",
         visualLat:   51.4577,   visualLon: -0.450503,
         alt:         12.4,      visualAlt: 12.4,
         heading:     225,
@@ -3547,7 +3548,7 @@
     // Lufthansa
     {
         name:        "EHAM Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         visualLat:   52.30338,  visualLon: 4.764162,
         alt:         -1,        visualAlt: -1,
         heading:     135,
@@ -3732,7 +3733,7 @@
     },
     {
         name:        "EHAM Egyptair",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
         visualLat:   52.302403, visualLon: 4.758507,
         alt:         -1,        visualAlt: -1,
         heading:     315,
@@ -3748,7 +3749,7 @@
     },
     {
         name:        "EHAM Kenya Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Kenya%20airways%20B737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Kenya%20Airways%20B787.glb",
         visualLat:   52.302691, visualLon: 4.759902,
         alt:         -1,        visualAlt: -1,
         heading:     135,
@@ -3859,7 +3860,7 @@
     // Lufthansa
     {
         name:        "LTFM Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         visualLat:   41.2673,   visualLon: 28.75001,
         alt:         64.3,      visualAlt: 64.3,
         heading:     181,
@@ -3867,7 +3868,7 @@
     },
     {
         name:        "LTFM Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         visualLat:   41.26796,  visualLon: 28.74989,
         alt:         64.3,      visualAlt: 64.3,
         heading:     180,
@@ -3986,7 +3987,7 @@
     },
     {
         name:        "LTFM Egyptair",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Egyptair%20A321.glb",
         visualLat:   41.263645, visualLon: 28.748742,
         alt:         64.3,      visualAlt: 64.3,
         heading:     190,
@@ -3997,7 +3998,7 @@
     // Lufthansa
     {
         name:        "LFPG Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         visualLat:   49.01481,  visualLon: 2.537671,
         alt:         52.3,      visualAlt: 52.3,
         heading:     60,
@@ -4005,7 +4006,7 @@
     },
     {
         name:        "LFPG Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         visualLat:   49.01716,  visualLon: 2.541705,
         alt:         52.3,      visualAlt: 52.3,
         heading:     133,
@@ -4181,7 +4182,7 @@
     // Kenya Airways
     {
         name:        "LFPG Kenya Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Kenya%20airways%20B737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Kenya%20Airways%20B787.glb",
         lat:         49.00176,  lon: 2.580173,
         visualLat:   49.00176,  visualLon: 2.580173,
         alt:         52.3,      visualAlt: 52.3,
@@ -4241,7 +4242,7 @@
     // Ethiopian
     {
         name:        "LFPG Ethiopian",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
         lat:         49.0065,  lon: 2.583987,
         visualLat:   49.0065,  visualLon: 2.583987,
         alt:         52.3,      visualAlt: 52.3,
@@ -4367,7 +4368,7 @@
     // Lufthansa
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04666,  lon: 8.559263,
         visualLat:   50.04666,  visualLon: 8.559263,
         alt:         49.8,      visualAlt: 49.8,
@@ -4376,7 +4377,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04692,  lon: 8.560304,
         visualLat:   50.04692,  visualLon: 8.560304,
         alt:         49.8,      visualAlt: 49.8,
@@ -4385,7 +4386,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04779,  lon: 8.563727,
         visualLat:   50.04779,  visualLon: 8.563727,
         alt:         49.8,      visualAlt: 49.8,
@@ -4394,7 +4395,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04752,  lon: 8.562589,
         visualLat:   50.04752,  visualLon: 8.562589,
         alt:         49.8,      visualAlt: 49.8,
@@ -4403,7 +4404,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04826,  lon: 8.565716,
         visualLat:   50.04826,  visualLon: 8.565716,
         alt:         49.8,      visualAlt: 49.8,
@@ -4412,7 +4413,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04613,  lon: 8.567406,
         visualLat:   50.04613,  visualLon: 8.567406,
         alt:         49.8,      visualAlt: 49.8,
@@ -4421,7 +4422,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04711,  lon: 8.568124,
         visualLat:   50.04711,  visualLon: 8.568124,
         alt:         49.8,      visualAlt: 49.8,
@@ -4430,7 +4431,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04658,  lon: 8.572244,
         visualLat:   50.04658,  visualLon: 8.572244,
         alt:         49.8,      visualAlt: 49.8,
@@ -4439,7 +4440,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04803,  lon: 8.572089,
         visualLat:   50.04803,  visualLon: 8.572089,
         alt:         49.8,      visualAlt: 49.8,
@@ -4448,7 +4449,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         50.04899,  lon: 8.569739,
         visualLat:   50.04899,  visualLon: 8.569739,
         alt:         49.8,      visualAlt: 49.8,
@@ -4457,7 +4458,7 @@
     },
     {
     name:        "EDDF Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
     visualLat:   50.031738, visualLon: 8.573802,
     alt:         49.8,     visualAlt: 49.8,
     heading:     120,
@@ -4473,7 +4474,7 @@
 },
 {
     name:        "EDDF Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
     visualLat:   50.031521, visualLon: 8.574988,
     alt:         49.8,     visualAlt: 49.8,
     heading:     120,
@@ -4481,7 +4482,7 @@
 },
 {
     name:        "EDDF Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
     visualLat:   50.033917, visualLon: 8.577904,
     alt:         49.8,     visualAlt: 49.8,
     heading:     330,
@@ -4505,7 +4506,7 @@
 },
 {
     name:        "EDDF Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
     visualLat:   50.032056, visualLon: 8.583405,
     alt:         49.8,     visualAlt: 49.8,
     heading:     40,
@@ -4513,7 +4514,7 @@
 },
 {
     name:        "EDDF Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
     visualLat:   50.032928, visualLon: 8.584091,
     alt:         49.8,     visualAlt: 49.8,
     heading:     40,
@@ -4529,7 +4530,7 @@
 },
 {
     name:        "EDDF Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
     visualLat:   50.034806, visualLon: 8.587700,
     alt:         49.8,     visualAlt: 49.8,
     heading:     200,
@@ -5177,7 +5178,7 @@
     // Lufthansa
     {
         name:        "LIRF Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         41.79658,  lon: 12.25570,
         visualLat:   41.79658,  visualLon: 12.25570,
         alt:         6,         visualAlt: 6,
@@ -5465,7 +5466,7 @@
     // Lufthansa
     {
         name:        "LPPT Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         38.76941,  lon: -9.130469,
         visualLat:   38.76941,  visualLon: -9.130469,
         alt:         59.15,      visualAlt: 59.15,
@@ -5627,7 +5628,7 @@
     // Lufthansa
     {
         name:        "EIDW Lufthansa",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
         lat:         53.42653,  lon: -6.246891,
         visualLat:   53.42653,  visualLon: -6.246891,
         alt:         28,        visualAlt: 28,
@@ -5789,7 +5790,7 @@
     // Egyptair
     {
         name:        "HECA Egyptair",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Egyptair%20A321.glb",
         visualLat:   30.108062,  visualLon: 31.396566,
         alt:         43.3,       visualAlt: 43.3,
         heading:     164,
@@ -5797,7 +5798,7 @@
     },
     {
         name:        "HECA Egyptair",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Egyptair%20A321.glb",
         visualLat:   30.108641,  visualLon: 31.398728,
         alt:         43.3,       visualAlt: 43.3,
         heading:     342,
@@ -5805,7 +5806,7 @@
     },
     {
         name:        "HECA Egyptair",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
         visualLat:   30.108692,  visualLon: 31.396395,
         alt:         43.3,       visualAlt: 43.3,
         heading:     164,
@@ -5813,7 +5814,7 @@
     },
     {
         name:        "HECA Egyptair",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
         visualLat:   30.109885,  visualLon: 31.398299,
         alt:         43.3,       visualAlt: 43.3,
         heading:     342,
@@ -6018,7 +6019,7 @@
     // Ethiopian Airlines
     {
         name:        "HAAB Ethiopian Airlines",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
         visualLat:   8.983582,   visualLon: 38.799694,
         alt:         1159.9,     visualAlt: 1159.9,
         heading:     254,
@@ -6026,7 +6027,7 @@
     },
     {
         name:        "HAAB Ethiopian Airlines",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
         visualLat:   8.983163,   visualLon: 38.798423,
         alt:         1160,       visualAlt: 1160,
         heading:     253,
@@ -6310,7 +6311,7 @@
     },
     {
         name:        "HKJK Kenya Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Kenya%20airways%20B737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Kenya%20Airways%20B787.glb",
         visualLat:   -1.330351,  visualLon: 36.927378,
         alt:         807.7,     visualAlt: 807.7,
         heading:     180,
@@ -6625,7 +6626,7 @@
 },
 {
     name:        "OMDB Singapore Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Singapore%20A321.glb",
     visualLat:   25.257427,  visualLon: 55.347566,
     alt:         1.05,      visualAlt: 1.05,
     heading:     125,
@@ -6865,7 +6866,7 @@
 },
 {
     name:        "RJTT Japan Airlines 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
     visualLat:   35.550831,   visualLon: 139.781414,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     298,
@@ -6881,7 +6882,7 @@
 },
 {
     name:        "RJTT Japan Airlines 4",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
     visualLat:   35.55194,  visualLon: 139.7802,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     60,
@@ -6913,7 +6914,7 @@
 },
 {
     name:        "RJTT ANA 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/ANA%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/ANA%20A320.glb",
     visualLat:   35.54928,  visualLon: 139.7925,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     55,
@@ -6921,7 +6922,7 @@
 },
 {
     name:        "RJTT ANA 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/ANA%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/ANA%20A320.glb",
     visualLat:   35.54985,  visualLon: 139.7905,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     150,
@@ -6945,7 +6946,7 @@
 },
 {
     name:        "RJTT ANA 5",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/ANA%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/ANA%20A320.glb",
     visualLat:   35.55313,  visualLon: 139.7881,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     150,
@@ -7411,7 +7412,7 @@
 },
 {
     name:        "VIDP Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
     visualLat:   28.551283,  visualLon: 77.082173,
     alt:         116.7,    visualAlt: 116.7,
     heading:     240,
@@ -7579,7 +7580,7 @@
 },
 {
     name:        "WSSS Singapore 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Singapore%20A321.glb",
     visualLat:   1.356369,  visualLon: 103.9937,
     alt:         2.84,      visualAlt: 2.84,
     heading:     250,
@@ -7603,7 +7604,7 @@
 },
 {
     name:        "WSSS Singapore 4",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Singapore%20A321.glb",
     visualLat:   1.351484,  visualLon: 103.9837,
     alt:         2.84,      visualAlt: 2.84,
     heading:     25,
@@ -7611,7 +7612,7 @@
 },
 {
     name:        "WSSS Singapore 5",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Singapore%20A321.glb",
     visualLat:   1.349978,  visualLon: 103.9822,
     alt:         2.84,      visualAlt: 2.84,
     heading:     63,
@@ -7795,7 +7796,7 @@
 },
 {
     name:        "RKSI Lufthansa 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
     visualLat:   37.44734,  visualLon: 126.4476,
     alt:         1.98,      visualAlt: 1.98,
     heading:     20,
@@ -7803,7 +7804,7 @@
 },
 {
     name:        "RKSI Lufthansa 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
     visualLat:   37.44528,  visualLon: 126.4477,
     alt:         1.98,      visualAlt: 1.98,
     heading:     315,
@@ -7827,7 +7828,7 @@
 },
 {
     name:        "RKSI Singapore 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Singapore%20A321.glb",
     visualLat:   37.4538,   visualLon: 126.4507,
     alt:         1.98,      visualAlt: 1.98,
     heading:     70,
@@ -8011,7 +8012,7 @@
 },
 {
     name:        "RKSI Japan Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
     visualLat:   37.467221, visualLon: 126.429669,
     alt:         2.05,      visualAlt: 2.05,
     heading:     330,
@@ -8091,7 +8092,7 @@
 },
 {
     name:        "RKSI Ethiopian",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
     visualLat:   37.452435, visualLon: 126.452256,
     alt:         2.05,      visualAlt: 2.05,
     heading:     167,
@@ -8275,7 +8276,7 @@
 },
 {
     name:        "WIII ANA 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/ANA%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/ANA%20A320.glb",
     visualLat:   -6.114642, visualLon: 106.6739,
     alt:         4.2,       visualAlt: 4.2,
     heading:     330,
@@ -8395,7 +8396,7 @@
 },
 {
     name:        "WIII Ethiopian",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
     visualLat:   -6.132395, visualLon: 106.652835,
     alt:         4.2,       visualAlt: 4.2,
     heading:     265,
@@ -8451,7 +8452,7 @@
 },
 {
     name:        "WIII Egyptair",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Egyptair%20A321.glb",
     visualLat:   -6.127963, visualLon: 106.659332,
     alt:         4.2,       visualAlt: 4.2,
     heading:     120,
@@ -8571,7 +8572,7 @@
 },
 {
     name:        "WMKK Japan Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
     visualLat:   2.747161,  visualLon: 101.7115,
     alt:         12.05,     visualAlt: 12.05,
     heading:     55,
@@ -8915,7 +8916,7 @@
 },
 {
     name:        "VTBS Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
     visualLat:   13.69052,  visualLon: 100.7459,
     alt:         1.83,      visualAlt: 1.83,
     heading:     20,
@@ -8955,7 +8956,7 @@
 },
 {
     name:        "VTBS Ethiopian",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
     visualLat:   13.69072,  visualLon: 100.7514,
     alt:         1.83,      visualAlt: 1.83,
     heading:     284,
@@ -8995,7 +8996,7 @@
 },
 {
     name:        "VTBS Lufthansa",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/Lufthansa%20747.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
     visualLat:   13.682256, visualLon: 100.746096,
     alt:         1.83,       visualAlt: 1.83,
     heading:     295,
@@ -9059,7 +9060,7 @@
 },
 {
     name:        "VTBS Ethiopian",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
     visualLat:   13.682162, visualLon: 100.751501,
     alt:         1.83,       visualAlt: 1.83,
     heading:     105,
@@ -9067,7 +9068,7 @@
 },
 {
     name:        "VTBS Egyptair",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
     visualLat:   13.682506, visualLon: 100.750149,
     alt:         1.83,       visualAlt: 1.83,
     heading:     105,
@@ -9475,7 +9476,7 @@
 },
 {
     name:        "OTHH Egyptair",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb ",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
     visualLat:   25.265936, visualLon: 51.612241,
     alt:         1.6,       visualAlt: 1.6,
     heading:     165,
@@ -9483,7 +9484,7 @@
 },
 {
     name:        "OTHH Ethiopian",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
     visualLat:   25.263969, visualLon: 51.613008,
     alt:         1.6,       visualAlt: 1.6,
     heading:     165,
