@@ -58,9 +58,30 @@
             border-color: #4752C4 !important;
             margin-top: 10px;
         }
-
         .geofs-rect-btn.discord-btn:hover {
             background-color: #4752C4 !important;
+        }
+
+        /* YouTube Button Style (Red) */
+        .geofs-rect-btn.youtube-btn {
+            background-color: #FF0000 !important;
+            color: #FFFFFF !important;
+            border-color: #CC0000 !important;
+            margin-top: 10px;
+        }
+        .geofs-rect-btn.youtube-btn:hover {
+            background-color: #CC0000 !important;
+        }
+
+        /* GitHub Button Style (Black) */
+        .geofs-rect-btn.github-btn {
+            background-color: #24292e !important;
+            color: #FFFFFF !important;
+            border-color: #1b1f23 !important;
+            margin-top: 10px;
+        }
+        .geofs-rect-btn.github-btn:hover {
+            background-color: #1b1f23 !important;
         }
 
         /* Section Header Style (Grey) */
@@ -153,6 +174,18 @@
                         Join our Discord Server
                     </button>
                 </fieldset>
+                
+                <fieldset style="border: none; padding: 0; margin: 10px 0 0 0;">
+                    <button id="youtubeLinkButton" class="geofs-rect-btn youtube-btn" title="Check out our YouTube Channel">
+                        YouTube Channel
+                    </button>
+                </fieldset>
+                
+                <fieldset style="border: none; padding: 0; margin: 10px 0 0 0;">
+                    <button id="githubLinkButton" class="geofs-rect-btn github-btn" title="View the Source Code on GitHub">
+                        GitHub Repository
+                    </button>
+                </fieldset>
             </li>
         `;
 
@@ -236,6 +269,29 @@
                 console.log(TAG, "Opened Discord Invite Link");
             });
         }
+
+        // --- YOUTUBE BUTTON LOGIC ---
+        const ytBtn = document.getElementById('youtubeLinkButton');
+        if (ytBtn) {
+            ytBtn.addEventListener('click', () => {
+                window.open('https://youtube.com/@geofsglobaltraffic?si=X4HT6CkcOLUGcjGX', '_blank');
+                console.log(TAG, "Opened YouTube Link");
+            });
+        }
+
+        // --- GITHUB BUTTON LOGIC ---
+        const githubBtn = document.getElementById('githubLinkButton');
+        if (githubBtn) {
+            githubBtn.addEventListener('click', () => {
+                window.open('https://github.com/drew-crypto/GeoFS-Global-Traffic/tree/main', '_blank');
+                console.log(TAG, "Opened GitHub Link");
+            });
+        }
+    }
+    
+    // Don't forget your initSpawner function down here when you implement the rest!
+    function initSpawner() {
+        // Spawner logic here
     }
 
     async function initSpawner() {
