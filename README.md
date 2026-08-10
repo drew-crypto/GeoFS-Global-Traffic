@@ -42,3 +42,6 @@ Medium (66%):
 High (100%):
 
 ![Settings 6](https://github.com/drew-crypto/GeoFS-Global-Traffic/blob/5e9bb897ca7444f97545c591e28327e475bfc3d4/Images/Capture%20d'%C3%A9cran%202026-08-09%20212459.png)
+
+
+Read the 'INFOS TO READ" for more details about what is featured inside the add-on.
