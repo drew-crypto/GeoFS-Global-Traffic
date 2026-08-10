@@ -31,6 +31,7 @@ Traffic has been meticulously hand-placed and is currently active at the followi
 * **HKJK/NBO** ( Jomo Kenyatta International Airport )
 * **DNMM/LOS** ( Murtala Muhammed International Airport )
 * **DTTA/TUN** ( Tunis-Carthage International Airport )
+* **FMEE/RUN** ( Roland Garros Airport )
 * **EGLL/LHR** ( Heathrow Airport )
 * **EHAM/AMS** ( Amsterdam Airport Schiphol )
 * **LFTM/IST** ( Istanbul Airport ) — *Note: LFTM is likely a typo for LTFM (Istanbul Airport). LFTM is actually a small French airfield without an IATA code.*
@@ -150,7 +151,7 @@ Wizz Air
 
 **Key Features:**
 
-* **Massive Scale & Precision:** 1,247 individual aircraft models, each meticulously hand-placed to ensure highly accurate and realistic ground and local traffic patterns.
+* **Massive Scale & Precision:** 1,247 individual aircraft models, each meticulously hand-placed to ensure highly accurate and realistic ground and local traffic patterns in 58 airports.
 * **Smart Proximity Spawning:** Models only render when you fly within a 30km radius. The script scans your location every 3 seconds, seamlessly generating nearby traffic while actively deleting models you've left behind to protect your hardware.
 * **Seamless UI Integration:** Adds a custom "Global Traffic" dropdown to the native GeoFS preferences list.
 * **Adjustable Traffic Density:** Tailor the experience to your PC's hardware. Choose between Low (33%), Medium (66%), or High (100%) spawn limits.
