@@ -1932,6 +1932,184 @@
         heading:     95,
         scale:       1
     },
+    // === CYYC === (Elevation: 1084m)
+// Air Canada
+{
+    name:        "CYYC Westjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   51.129517, visualLon: -114.011678,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     223,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:   51.129939, visualLon: -114.010981,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     223,
+    scale:       1
+},
+{
+    name: "CYYC KLM",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/KLM%20777.glb",
+    visualLat:   51.129575, visualLon: -114.000044,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "CYYC Westjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   51.129433, visualLon: -114.007764,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "CYYC Westjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   51.129008, visualLon: -114.007850,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "CYYC Westjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   51.128614, visualLon: -114.007783,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "CYYC Westjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   51.128375 , visualLon: -114.007889,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:   51.128225, visualLon: -114.008761,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     283,
+    scale:       1
+},
+{
+    name: "CYYC American",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   51.129517, visualLon: -113.998872,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     270,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Canada%20A330.glb",
+    visualLat:   51.129469, visualLon: -114.001328,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     270,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Canada%20A330.glb",
+    visualLat:   51.130508 , visualLon: -114.000461,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "CYYC Westjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   51.130664, visualLon: -113.999022,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "CYYC Westjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   51.130511, visualLon: -113.998114,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "CYYC United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   51.129100, visualLon: -114.002911,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name:        "CYYC Alaska",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Alaska%20737%20v2.glb",
+    visualLat:   51.128303, visualLon: -114.003417,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     180,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:    51.134258, visualLon: -114.012683,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     0,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:    51.134258, visualLon: -114.012689,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     0,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:    51.133292, visualLon: -114.014883,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "CYYC Westjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   51.133219, visualLon: -114.013400,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     90,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+    visualLat:   51.132789, visualLon: -114.015778,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     0,
+    scale:       0.33
+},
+{
+    name: "CYYC Air Canada",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:   51.134572, visualLon: -114.012689,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     0,
+    scale:       1
+},
+{
+    name: "CYYC Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Canada%20A330.glb",
+    visualLat:   51.132489, visualLon: -114.014950,
+    alt:         1079.4,    visualAlt: 0,
+    heading:     270,
+    scale:       1
+},
     // === MMMX === (Elevation: 1118.5m)
     // Aeromexico
     {
@@ -7555,6 +7733,710 @@
     scale:       1
 },
 {
+    name:        "VABB Akasa Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   19.091552, visualLon: 72.851026,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Akasa Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   19.091588, visualLon: 72.853665,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Akasa Air 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   19.091634, visualLon: 72.854126,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Spicejet 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   19.091618, visualLon: 72.851605,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Spicejet 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   19.091623, visualLon: 72.852115,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Spicejet 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   19.091558, visualLon: 72.853107,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Spicejet 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   19.091618, visualLon: 72.854502,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Spicejet 5",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   19.091623, visualLon: 72.854963,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Spicejet 6",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   19.091608, visualLon: 72.855988,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Air India 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   19.097656, visualLon: 72.872703,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     325,
+    scale:       1
+},
+{
+    name:        "VABB Air India 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   19.096693, visualLon: 72.872875,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     13,
+    scale:       1
+},
+{
+    name:        "VABB Air India 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   19.096222, visualLon: 72.872355,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     40,
+    scale:       1
+},
+{
+    name:        "VABB Air India 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   19.093814, visualLon: 72.872827,
+    alt:         6.6,       visualAlt: 6.6,
+    heading:     220,
+    scale:       1
+},
+{
+    name:        "VABB Indigo 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   19.094969, visualLon: 72.871260,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     40,
+    scale:       1
+},
+{
+    name:        "VABB Indigo 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   19.094230, visualLon: 72.870381,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     40,
+    scale:       1
+},
+{
+    name:        "VABB Indigo 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   19.093393, visualLon: 72.870496,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     322,
+    scale:       1
+},
+{
+    name:        "VABB Indigo 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   19.093277, visualLon: 72.871577,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VABB Alliance Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Alliance%20Air%20ATR72.glb",
+    visualLat:   19.091705, visualLon: 72.857350,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "VABB Alliance Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Alliance%20Air%20ATR72.glb",
+    visualLat:   19.092130, visualLon: 72.857527,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "VABB Alliance Air 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Alliance%20Air%20ATR72.glb",
+    visualLat:   19.092723, visualLon: 72.857817,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "VABB Qatar Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-15@main/models/Qatar%20A350.glb",
+    visualLat:   19.095081, visualLon: 72.875260,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     300,
+    scale:       1
+},
+{
+    name:        "VABB KLM",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/KLM%20777.glb",
+    visualLat:   19.094549, visualLon: 72.875809,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     300,
+    scale:       1
+},
+{
+    name:        "VABB Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Canada%20A330.glb",
+    visualLat:   19.094301, visualLon: 72.876630,
+    alt:         6.6,       visualAlt: 6.6,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VABB Kenya Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Kenya%20Airways%20B787.glb",
+    visualLat:   19.095857, visualLon: 72.877220,
+    alt:         6.6,       visualAlt: 6.6,
+    heading:     130,
+    scale:       1
+},
+{
+    name:        "VABB Vietjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Vietjet%20A321.glb",
+    visualLat:   19.094960, visualLon: 72.877290,
+    alt:         6.6,       visualAlt: 6.6,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "VABB Malaysia Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Malaysia%20Airlines%20737.glb",
+    visualLat:   19.098731, visualLon: 72.876678,
+    alt:         6.6,       visualAlt: 6.6,
+    heading:     205,
+    scale:       1
+},
+{
+    name:        "VABB Egyptair",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
+    visualLat:   19.099389, visualLon: 72.877209,
+    alt:         6.5,       visualAlt: 6.5,
+    heading:     205,
+    scale:       1
+},
+{
+    name:        "VOBL IndiGo 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   13.201452, visualLon: 77.713946,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL IndiGo 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   13.201508, visualLon: 77.713096,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL IndiGo 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   13.201519, visualLon: 77.712291,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL IndiGo 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   13.201540, visualLon: 77.711422,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL IndiGo 5",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   13.201493, visualLon: 77.710781,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL Air India Express 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   13.200746, visualLon: 77.716593,
+    alt:         447.85,       visualAlt: 447.85,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL Air India Express 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   13.200621, visualLon: 77.718275,
+    alt:         448.15,       visualAlt: 448.15,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL Air India 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   13.200684, visualLon: 77.717315,
+    alt:         447.95,       visualAlt: 447.95,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL Air India 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   13.200715, visualLon: 77.719916,
+    alt:         448.95,       visualAlt: 448.95,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "VOBL Akasa Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   13.201473, visualLon: 77.710379,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL Akasa Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   13.201462, visualLon: 77.709960,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL Akasa Air 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   13.201436, visualLon: 77.709247,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL SpiceJet 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   13.201441, visualLon: 77.709628,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL SpiceJet 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   13.201426, visualLon: 77.708844,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL SpiceJet 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   13.201431, visualLon: 77.708442,
+    alt:         447.55,       visualAlt: 447.55,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOBL Emirates",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Emirates%20777.glb",
+    visualLat:   13.199509, visualLon: 77.719997,
+    alt:         448.95,       visualAlt: 448.95,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "VOBL Singapore Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    visualLat:   13.197917, visualLon: 77.719906,
+    alt:         448.95,       visualAlt: 448.95,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "VOBL Qatar Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-15@main/models/Qatar%20A350.glb",
+    visualLat:   13.197090, visualLon: 77.719949,
+    alt:         448.95,       visualAlt: 448.95,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "VOBL Lufthansa",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20A350.glb",
+    visualLat:   13.198689, visualLon: 77.719954,
+    alt:         448.95,       visualAlt: 448.95,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "VOBL British Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/British%20Airways%20777.glb",
+    visualLat:   13.200619, visualLon: 77.719546,
+    alt:         448.8,       visualAlt: 448.8,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOHS IndiGo 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   17.236337, visualLon: 78.433593,
+    alt:         303.4,       visualAlt: 303.4,
+    heading:     75,
+    scale:       1
+},
+{
+    name:        "VOHS IndiGo 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   17.235820, visualLon: 78.432257,
+    alt:         302.8,       visualAlt: 302.8,
+    heading:     75,
+    scale:       1
+},
+{
+    name:        "VOHS IndiGo 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   17.236475, visualLon: 78.434355,
+    alt:         303,       visualAlt: 303,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOHS Air India Express 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   17.234270, visualLon: 78.433357,
+    alt:         303,       visualAlt: 303,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VOHS Air India Express 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   17.234329, visualLon: 78.430831,
+    alt:         302.3,       visualAlt: 302.3,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VOHS Air India Express 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   17.234329, visualLon: 78.429854,
+    alt:         302.1,       visualAlt: 302.1,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VOHS Akasa Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   17.234283, visualLon: 78.428223,
+    alt:         301.6,       visualAlt: 301.6,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VOHS SpiceJet 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   17.234288, visualLon: 78.427317,
+    alt:         301.35,       visualAlt: 301.35,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VOHS Saudia 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-11@main/models/Saudia%20B787.glb",
+    visualLat:   17.234196, visualLon: 78.424833,
+    alt:         300.9,       visualAlt: 300.9,
+    heading:     310,
+    scale:       1
+},
+{
+    name:        "VOHS Saudia 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-11@main/models/Saudia%20B787.glb",
+    visualLat:   17.235204, visualLon: 78.423862,
+    alt:         300.7,       visualAlt: 300.7,
+    heading:     360,
+    scale:       1
+},
+{
+    name:        "VOHS KLM",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/KLM%20777.glb",
+    visualLat:   17.236079, visualLon: 78.423959,
+    alt:         300.7,       visualAlt: 300.7,
+    heading:     13,
+    scale:       1
+},
+{
+    name:        "VOHS Cathay Pacific",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Cathay%20Pacific%20777.glb",
+    visualLat:   17.236392, visualLon: 78.424962,
+    alt:         301.05,       visualAlt: 301.05,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "VOHS Vietjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Vietjet%20A321.glb",
+    visualLat:   17.236074, visualLon: 78.425729,
+    alt:         301.2,       visualAlt: 301.2,
+    heading:     110,
+    scale:       1
+},
+{
+    name:        "VOHS AirAsia",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Asia%20A320.glb",
+    visualLat:   17.235753, visualLon: 78.435390,
+    alt:         303.7,       visualAlt: 303.7,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "VOMM IndiGo 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   12.981673, visualLon: 80.158677,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "VOMM IndiGo 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   12.982059, visualLon: 80.159788,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "VOMM Air India 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   12.982949, visualLon: 80.162400,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "VOMM Air India 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   12.983513, visualLon: 80.163462,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "VOMM Air India 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   12.984124, visualLon: 80.165206,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "VOMM Air India Express 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   12.986404, visualLon: 80.166552,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VOMM Air India Express 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   12.985902, visualLon: 80.165018,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VOMM Akasa Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   12.986174, visualLon: 80.165893,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VOMM SpiceJet 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   12.985699, visualLon: 80.164509,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VOMM SpiceJet 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   12.985217, visualLon: 80.163200,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VOMM SpiceJet 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   12.984835, visualLon: 80.162400,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VOMM Alliance Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Alliance%20Air%20ATR72.glb",
+    visualLat:   12.984093, visualLon: 80.160265,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VOMM Alliance Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Alliance%20Air%20ATR72.glb",
+    visualLat:   12.983717, visualLon: 80.159337,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "VOMM Batik Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Batik%20Air%20A320.glb",
+    visualLat:   12.984871, visualLon: 80.167067,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "VOMM Malaysia Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Malaysia%20Airlines%20737.glb",
+    visualLat:   12.984568, visualLon: 80.166332,
+    alt:         6.2,       visualAlt: 6.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "VECC IndiGo 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   22.639700, visualLon: 88.437715,
+    alt:         1.8,       visualAlt: 1.8,
+    heading:     250,
+    scale:       1
+},
+{
+    name:        "VECC IndiGo 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   22.640304, visualLon: 88.439335,
+    alt:         1.8,       visualAlt: 1.8,
+    heading:     250,
+    scale:       1
+},
+{
+    name:        "VECC IndiGo 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   22.640966, visualLon: 88.440344,
+    alt:         1.8,       visualAlt: 1.8,
+    heading:     215,
+    scale:       1
+},
+{
+    name:        "VECC Air India Express",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    visualLat:   22.642581, visualLon: 88.440554,
+    alt:         1.8,       visualAlt: 1.8,
+    heading:     189,
+    scale:       1
+},
+{
+    name:        "VECC Akasa Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   22.645897, visualLon: 88.443241,
+    alt:         1.5,       visualAlt: 1.5,
+    heading:     9,
+    scale:       1
+},
+{
+    name:        "VECC Akasa Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   22.645066, visualLon: 88.443133,
+    alt:         1.5,       visualAlt: 1.5,
+    heading:     9,
+    scale:       1
+},
+{
+    name:        "VECC Akasa Air 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Akasa%20Air%20737.glb",
+    visualLat:   22.644452, visualLon: 88.443069,
+    alt:         1.5,       visualAlt: 1.5,
+    heading:     9,
+    scale:       1
+},
+{
+    name:        "VECC SpiceJet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Spicejet%20B737.glb",
+    visualLat:   22.638421, visualLon: 88.438724,
+    alt:         1.8,       visualAlt: 1.8,
+    heading:     70,
+    scale:       1
+},
+{
+    name:        "VECC Alliance Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Alliance%20Air%20ATR72.glb",
+    visualLat:   22.645720, visualLon: 88.441175,
+    alt:         1.6,       visualAlt: 1.6,
+    heading:     100,
+    scale:       1
+},
+{
+    name:        "VECC Singapore Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    visualLat:   22.643932, visualLon: 88.440684,
+    alt:         1.8,       visualAlt: 1.8,
+    heading:     189,
+    scale:       1
+},
+{
+    name:        "VECC Qatar Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-1@main/models/Qatar%20A319.glb",
+    visualLat:   22.640581, visualLon: 88.439925,
+    alt:         1.8,       visualAlt: 1.8,
+    heading:     230,
+    scale:       1
+},
+{
+    name:        "VECC Thai",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/Thai%20777.glb",
+    visualLat:   22.641600, visualLon: 88.440483,
+    alt:         1.8,       visualAlt: 1.8,
+    heading:     189,
+    scale:       1
+},
+{
     name:        "WSSS Qantas 1",
     model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Qantas%20A330.glb",
     visualLat:   1.363288,  visualLon: 103.9934,
@@ -9608,6 +10490,310 @@
     visualLat:   39.203939,  visualLon: 125.674506,
     alt:         12.5,     visualAlt: 12.5,
     heading:     163,
+    scale:       1
+},
+{
+    name:        "VHHH Jeju Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Jeju%20B737.glb",
+    visualLat:   22.312889, visualLon: 113.929108,
+    alt:         2,       visualAlt: 2,
+    heading:     252,
+    scale:       1
+},
+{
+    name:        "VHHH Jeju Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Jeju%20B737.glb",
+    visualLat:   22.313157, visualLon: 113.929794,
+    alt:         2,       visualAlt: 2,
+    heading:     252,
+    scale:       1
+},
+{
+    name:        "VHHH Jeju Air 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Jeju%20B737.glb",
+    visualLat:   22.313653, visualLon: 113.931329,
+    alt:         2,       visualAlt: 2,
+    heading:     252,
+    scale:       1
+},
+{
+    name:        "VHHH HK Express 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/HK%20Express%20A320.glb",
+    visualLat:   22.313107, visualLon: 113.934547,
+    alt:         2,       visualAlt: 2,
+    heading:     340,
+    scale:       1
+},
+{
+    name:        "VHHH HK Express 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/HK%20Express%20A320.glb",
+    visualLat:   22.312443, visualLon: 113.934751,
+    alt:         2,       visualAlt: 2,
+    heading:     340,
+    scale:       1
+},
+{
+    name:        "VHHH HK Express 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/HK%20Express%20A320.glb",
+    visualLat:   22.311253, visualLon: 113.935255,
+    alt:         2,       visualAlt: 2,
+    heading:     340,
+    scale:       1
+},
+{
+    name:        "VHHH AirAsia 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Asia%20A320.glb",
+    visualLat:   22.311946, visualLon: 113.927649,
+    alt:         2,       visualAlt: 2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "VHHH AirAsia 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Asia%20A320.glb",
+    visualLat:   22.31303, visualLon: 113.927214,
+    alt:         2,       visualAlt: 2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "VHHH Bangkok Airways 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Bangkok%20Airways%20A320.glb",
+    visualLat:   22.310637, visualLon: 113.926898,
+    alt:         2,       visualAlt: 2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "VHHH Bangkok Airways 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-41@main/models/Bangkok%20Airways%20A320.glb",
+    visualLat:   22.309397, visualLon: 113.926329,
+    alt:         2,       visualAlt: 2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "VHHH Batik Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Batik%20Air%20A320.glb",
+    visualLat:   22.309406, visualLon: 113.925055,
+    alt:         2,       visualAlt: 2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "VHHH Batik Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Batik%20Air%20A320.glb",
+    visualLat:   22.310056, visualLon: 113.925398,
+    alt:         2,       visualAlt: 2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "VHHH Batik Air 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Batik%20Air%20A320.glb",
+    visualLat:   22.3103400, visualLon: 113.925554,
+    alt:         2,       visualAlt: 2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "VHHH Cebu Pacific 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Cebu%20Pacific%20A320.glb",
+    visualLat:   22.311331, visualLon: 113.925935,
+    alt:         2,       visualAlt: 2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "VHHH Cebu Pacific 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Cebu%20Pacific%20A320.glb",
+    visualLat:   22.311882, visualLon: 113.926316,
+    alt:         2,       visualAlt: 2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "VHHH Hainan Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Hainan%20A330.glb",
+    visualLat:   22.313366, visualLon: 113.9255292,
+    alt:         2,       visualAlt: 2,
+    heading:     292,
+    scale:       1
+},
+{
+    name:        "VHHH Indigo",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    visualLat:   22.313648, visualLon: 113.924824,
+    alt:         2,       visualAlt: 2,
+    heading:     292,
+    scale:       1
+},
+{
+    name:        "VHHH Jeju Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Jeju%20B737.glb",
+    visualLat:   22.313936, visualLon: 113.924186,
+    alt:         2,       visualAlt: 2,
+    heading:     292,
+    scale:       1
+},
+{
+    name:        "VHHH Jeju Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Jeju%20B737.glb",
+    visualLat:   22.314195, visualLon: 113.923572,
+    alt:         2,       visualAlt: 2,
+    heading:     292,
+    scale:       1
+},
+{
+    name:        "VHHH Lion Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Lion%20Air%20B737.glb",
+    visualLat:   22.314873, visualLon: 113.9292324,
+    alt:         2,       visualAlt: 2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "VHHH Vietjet Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Vietjet%20A321.glb",
+    visualLat:   22.315267, visualLon: 113.923827,
+    alt:         2,       visualAlt: 2,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "VHHH Cathay Pacific 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Cathay%20Pacific%20A321.glb",
+    visualLat:   22.314944, visualLon: 113.924733,
+    alt:         2,       visualAlt: 2,
+    heading:     120,
+    scale:       1
+},
+{
+    name:        "VHHH Cathay Pacific 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Cathay%20Pacific%20777.glb",
+    visualLat:   22.314517, visualLon: 113.925511,
+    alt:         2,       visualAlt: 2,
+    heading:     120,
+    scale:       1
+},
+{
+    name:        "VHHH Cathay Pacific 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Cathay%20Pacific%20A321.glb",
+    visualLat:   22.314215, visualLon: 113.926267,
+    alt:         2,       visualAlt: 2,
+    heading:     120,
+    scale:       1
+},
+{
+    name:        "VHHH Cathay Pacific 5",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Cathay%20Pacific%20A321.glb",
+    visualLat:   22.313733, visualLon: 113.928005,
+    alt:         2,       visualAlt: 2,
+    heading:     78,
+    scale:       1
+},
+{
+    name:        "VHHH Cathay Pacific 6",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Cathay%20Pacific%20A321.glb",
+    visualLat:   22.314125, visualLon: 113.929298,
+    alt:         2,       visualAlt: 2,
+    heading:     78,
+    scale:       1
+},
+{
+    name:        "VHHH British Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/British%20Airways%20777.glb",
+    visualLat:   22.314576, visualLon: 113.930629,
+    alt:         2,       visualAlt: 2,
+    heading:     78,
+    scale:       1
+},
+{
+    name:        "VHHH United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   22.317276, visualLon: 113.929599,
+    alt:         2,       visualAlt: 2,
+    heading:     348,
+    scale:       1
+},
+{
+    name:        "VHHH Emirates",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Emirates%20777.glb",
+    visualLat:   22.317751, visualLon: 113.930613,
+    alt:         2,       visualAlt: 2,
+    heading:     168,
+    scale:       1
+},
+{
+    name:        "VHHH Egyptair",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-292@main/models/Egyptair%20A330.glb",
+    visualLat:   22.317062, visualLon: 113.930945,
+    alt:         2,       visualAlt: 2,
+    heading:     168,
+    scale:       1
+},
+{
+    name:        "VHHH Air China",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   22.317459, visualLon: 113.932967,
+    alt:         2,       visualAlt: 2,
+    heading:     340,
+    scale:       1
+},
+{
+    name:        "VHHH China Southern",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/China%20Southern%20A330.glb",
+    visualLat:   22.318641, visualLon: 113.932490,
+    alt:         2,       visualAlt: 2,
+    heading:     340,
+    scale:       1
+},
+{
+    name:        "VHHH ANA",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/ANA%20A320.glb",
+    visualLat:   22.307455, visualLon: 113.917985,
+    alt:         2,       visualAlt: 2,
+    heading:     340,
+    scale:       1
+},
+{
+    name:        "VHHH Vietnam Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Vietnam%20Airlines%20A350.glb",
+    visualLat:   22.308771, visualLon: 113.917437,
+    alt:         2,       visualAlt: 2,
+    heading:     340,
+    scale:       1
+},
+{
+    name:        "VHHH ANZ",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-29@main/models/Air%20New%20Zealand%20777.glb",
+    visualLat:   22.312815, visualLon: 113.915994,
+    alt:         2,       visualAlt: 2,
+    heading:     340,
+    scale:       1
+},
+{
+    name:        "VHHH Qantas",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-10@main/models/Qantas%20A350.glb",
+    visualLat:   22.313291, visualLon: 113.917287,
+    alt:         2,       visualAlt: 2,
+    heading:     160,
+    scale:       1
+},
+{
+    name:        "VHHH Air India",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20India%20787.glb",
+    visualLat:   22.310091, visualLon: 113.918564,
+    alt:         2,       visualAlt: 2,
+    heading:     160,
+    scale:       1
+},
+{
+    name:        "VHHH EVA Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Eva%20Air%20777.glb",
+    visualLat:   22.307555, visualLon: 113.919438,
+    alt:         2,       visualAlt: 2,
+    heading:     160,
     scale:       1
 },
 {
