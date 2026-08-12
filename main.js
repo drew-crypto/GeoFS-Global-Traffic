@@ -7958,7 +7958,7 @@
 },
 {
     name:        "VOBL IndiGo 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Indigo%20Atr%2072.glb",
     visualLat:   13.201508, visualLon: 77.713096,
     alt:         447.55,       visualAlt: 447.55,
     heading:     90,
@@ -7982,7 +7982,7 @@
 },
 {
     name:        "VOBL IndiGo 5",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Indigo%20Atr%2072.glb",
     visualLat:   13.201493, visualLon: 77.710781,
     alt:         447.55,       visualAlt: 447.55,
     heading:     90,
@@ -7990,7 +7990,7 @@
 },
 {
     name:        "VOBL Air India Express 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Air%20India%20Express%20B737.glb",
     visualLat:   13.200746, visualLon: 77.716593,
     alt:         447.85,       visualAlt: 447.85,
     heading:     90,
@@ -7998,7 +7998,7 @@
 },
 {
     name:        "VOBL Air India Express 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Air%20India%20Express%20B737.glb",
     visualLat:   13.200621, visualLon: 77.718275,
     alt:         448.15,       visualAlt: 448.15,
     heading:     90,
@@ -8134,7 +8134,7 @@
 },
 {
     name:        "VOHS Air India Express 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Air%20India%20Express%20B737.glb",
     visualLat:   17.234270, visualLon: 78.433357,
     alt:         303,       visualAlt: 303,
     heading:     270,
@@ -8142,7 +8142,7 @@
 },
 {
     name:        "VOHS Air India Express 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Air%20India%20Express%20B737.glb",
     visualLat:   17.234329, visualLon: 78.430831,
     alt:         302.3,       visualAlt: 302.3,
     heading:     270,
@@ -8150,7 +8150,7 @@
 },
 {
     name:        "VOHS Air India Express 3",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Air%20India%20Express%20B737.glb",
     visualLat:   17.234329, visualLon: 78.429854,
     alt:         302.1,       visualAlt: 302.1,
     heading:     270,
@@ -8222,7 +8222,7 @@
 },
 {
     name:        "VOMM IndiGo 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Indigo%20Atr%2072.glb",
     visualLat:   12.981673, visualLon: 80.158677,
     alt:         6.2,       visualAlt: 6.2,
     heading:     65,
@@ -8230,7 +8230,7 @@
 },
 {
     name:        "VOMM IndiGo 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Indigo%20Atr%2072.glb",
     visualLat:   12.982059, visualLon: 80.159788,
     alt:         6.2,       visualAlt: 6.2,
     heading:     65,
@@ -8262,7 +8262,7 @@
 },
 {
     name:        "VOMM Air India Express 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Air%20India%20Express%20B737.glb",
     visualLat:   12.986404, visualLon: 80.166552,
     alt:         6.2,       visualAlt: 6.2,
     heading:     245,
@@ -8270,7 +8270,7 @@
 },
 {
     name:        "VOMM Air India Express 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Air%20India%20Express%20B737.glb",
     visualLat:   12.985902, visualLon: 80.165018,
     alt:         6.2,       visualAlt: 6.2,
     heading:     245,
@@ -8350,7 +8350,7 @@
 },
 {
     name:        "VECC IndiGo 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Indigo%20Atr%2072.glb",
     visualLat:   22.640304, visualLon: 88.439335,
     alt:         1.8,       visualAlt: 1.8,
     heading:     250,
@@ -8366,7 +8366,7 @@
 },
 {
     name:        "VECC Air India Express",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-30@main/models/Air%20India%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-42@main/models/Air%20India%20Express%20B737.glb",
     visualLat:   22.642581, visualLon: 88.440554,
     alt:         1.8,       visualAlt: 1.8,
     heading:     189,
