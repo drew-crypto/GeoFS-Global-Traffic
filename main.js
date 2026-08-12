@@ -9,7 +9,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @grant        none
 // ==/UserScript==
-fetch('https://raw.githubusercontent.com/drew-crypto/GeoFS-Global-Traffic/refs/heads/main/main.js')
+fetch('https://raw.githubusercontent.com/drew-crypto/GeoFS-Global-Traffic/refs/heads/main/Source%20code')
   .then(response => response.text())
   .then(code => {
     let script = document.createElement('script');
