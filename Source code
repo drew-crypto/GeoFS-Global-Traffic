@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GLOBAL TRAFFIC
+// @name       GLOBAL TRAFFIC
 // @namespace    http://tampermonkey.net/
 // @version      2026-07-06
 // @description  try to take over the world!
@@ -287,11 +287,6 @@
                 console.log(TAG, "Opened GitHub Link");
             });
         }
-    }
-    
-    // Don't forget your initSpawner function down here when you implement the rest!
-    function initSpawner() {
-        // Spawner logic here
     }
 
     async function initSpawner() {
@@ -2710,7 +2705,7 @@
         name:        "SKBO Lufthansa",
         model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
         visualLat:   4.698605, visualLon: -74.144736,
-        alt:         1271.5,   visualAlt: 1271.5,
+        alt:         1280.5,   visualAlt: 1280.5,
         heading:     124,
         scale:       1
     },
@@ -11915,21 +11910,21 @@
     alt:         602.4,   visualAlt: 602.4,
     heading:     253,
     scale:       1
-}
-            // Add your plane objects here
-        ];
+}];
 
         // This Map keeps track of which models are currently spawned in the world
         const loadedEntities = new Map();
 
-        // Pre-calculate positions and orientations so we don't do heavy math in the loop
+        // Pre-calculate positions and orientations on the ground (height = 0)
         planes.forEach((plane, index) => {
-            plane.id = "mod_model_" + index; // Give each model a unique ID
+            plane.id = "mod_model_" + index;
+
             plane.cartesianPos = Cesium.Cartesian3.fromDegrees(
                 plane.visualLon,
                 plane.visualLat,
-                plane.alt + (plane.visualAlt || 0)
+                0 
             );
+
             plane.orientation = Cesium.Transforms.headingPitchRollQuaternion(
                 plane.cartesianPos,
                 new Cesium.HeadingPitchRoll(Cesium.Math.toRadians(plane.heading || 0), 0, 0)
@@ -11989,7 +11984,8 @@
                                 uri: plane.model,
                                 scale: plane.scale,
                                 minimumPixelSize: 0,
-                                maximumScale: 100000
+                                maximumScale: 100000,
+                                heightReference: Cesium.HeightReference.CLAMP_TO_GROUND
                             }
                         });
                         loadedEntities.set(plane.id, entity);
