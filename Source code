@@ -1331,6 +1331,375 @@
     heading:     270,
     scale:       1
 },
+ // === KSFO ===
+{
+    name:        "KSFO united 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   37.617619, visualLon: -122.391636,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     298,
+    scale:       1
+},
+{
+    name:        "KSFO united 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   37.617942, visualLon: -122.392344,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     298,
+    scale:       1
+},
+{
+    name:        "KSFO united 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   37.618206, visualLon: -122.393103,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     298,
+    scale:       1
+},
+{
+    name:        "KSFO united a320",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   37.618330, visualLon: -122.393658,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     355,
+    scale:       1
+},
+{
+    name:        "KSFO united a320",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   37.618386, visualLon: -122.391953,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     117,
+    scale:       1
+},
+{
+    name:        "KSFO united 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   37.617497, visualLon: -122.389703,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     117,
+    scale:       1
+},
+{
+    name:        "KSFO united 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   37.619917, visualLon: -122.388167,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     298,
+    scale:       1
+},
+{
+    name:        "KSFO united 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   37.620611, visualLon: -122.389875,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     298,
+    scale:       1
+},
+{
+    name:        "KSFO united a320",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   37.618147, visualLon: -122.387997,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     38,
+    scale:       1
+},
+{
+    name:        "KSFO united 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   37.621356, visualLon: -122.390106,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     117,
+    scale:       1
+},
+{
+    name:        "KSFO united 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    visualLat:   37.620869, visualLon: -122.388561,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     117,
+    scale:       1
+},
+{
+    name:        "KSFO united a320",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   37.620297, visualLon: -122.386797,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     198,
+    scale:       1
+},
+{
+    name:        "KSFO united a320",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   37.620592, visualLon: -122.386622,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     203,
+    scale:       1
+},
+{
+    name:        "KSFO united a320",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   37.618675, visualLon: -122.385117,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     63,
+    scale:       1
+},
+{
+    name:        "KSFO united a320",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   37.618900, visualLon: -122.383947,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     205,
+    scale:       1
+},
+{
+    name:        "KSFO united a320",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/United%20A320.glb",
+    visualLat:   37.618528, visualLon: -122.384158,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     205,
+    scale:       1
+},
+{
+    name:        "KSFO Alaska 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Alaska%20737%20v2.glb",
+    visualLat:   37.617919, visualLon: -122.382125,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     26,
+    scale:       1
+},
+{
+    name:        "KSFO Alaska 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Alaska%20737.glb",
+    visualLat:   37.618261, visualLon: -122.381969,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     48,
+    scale:       1
+},
+{
+    name:        "KSFO Alaska 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Alaska%20737%20v2.glb",
+    visualLat:   37.617825, visualLon: -122.380844,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     168,
+    scale:       1
+},
+{
+    name:        "KSFO Alaska 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Alaska%20737%20v2.glb",
+    visualLat:   37.6165389, visualLon: -122.3808333,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     257,
+    scale:       1
+},
+{
+    name:        "KSFO Alaska 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Alaska%20737%20v2.glb",
+    visualLat:   37.6168944, visualLon: -122.3822528,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     251,
+    scale:       1
+},
+{
+    name:        "KSFO Jetblue a321",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/Jetblue%20A321.glb",
+    visualLat:   37.6134000, visualLon: -122.3837194,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     180,
+    scale:       1
+},
+{
+    name:        "KSFO Jetblue a321",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/Jetblue%20A321.glb",
+    visualLat:   37.6127556, visualLon: -122.3839861,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "KSFO Southwest 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-17@main/models/Southwest%20737.glb",
+    visualLat:   37.6120583, visualLon: -122.3844500,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "KSFO Southwest 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-17@main/models/Southwest%20737.glb",
+    visualLat:   37.6117194, visualLon: -122.3846944,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "KSFO Southwest 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-17@main/models/Southwest%20737.glb",
+    visualLat:   37.6113639, visualLon: -122.3849167,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "KSFO American 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   37.6103944, visualLon: -122.3856833,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "KSFO American 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/American%20777.glb",
+    visualLat:   37.6101861, visualLon: -122.38591673,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     249,
+    scale:       1
+},
+{
+    name:        "KSFO American 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   37.6101083, visualLon: -122.3862528,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     278,
+    scale:       1
+},
+{
+    name:        "KSFO American 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   37.6109778, visualLon: -122.3865444,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     25,
+    scale:       1
+},
+{
+    name:        "KSFO American 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   37.6116694, visualLon: -122.3860639,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     25,
+    scale:       1
+},
+{
+    name:        "KSFO Lufthansa 747",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Lufthansa%20B747.glb",
+    visualLat:   37.6129639, visualLon: -122.3887639,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     207,
+    scale:       1
+},
+{
+    name:        "KSFO Emirates a380",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Emirates%20A380.glb",
+    visualLat:   37.6123417, visualLon: -122.3892444,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     207,
+    scale:       1
+},
+{
+    name:        "KSFO eva air 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Eva%20Air%20777.glb",
+    visualLat:   37.6117111, visualLon: -122.3897111,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     207,
+    scale:       1
+},
+{
+    name:        "KSFO Korean air 787",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Korean%20Air%20787.glb",
+    visualLat:   37.6114278, visualLon: -122.3901750,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     314,
+    scale:       1
+},
+{
+    name:        "KSFO BA 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/British%20Airways%20777.glb",
+    visualLat:   37.6117139, visualLon: -122.3905278,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     25,
+    scale:       1
+},
+{
+    name:        "KSFO ITA a330",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/ITA%20Airways%20A330.glb",
+    visualLat:   37.6125861, visualLon: -122.3900194,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     25,
+    scale:       1
+},
+{
+    name:        "KSFO Turkish 777",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Turkish%20777.glb",
+    visualLat:   37.6131472, visualLon: -122.3895889,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     25,
+    scale:       1
+},
+{
+    name:        "KSFO Air China 787",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   37.6136389, visualLon: -122.3883889,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     207,
+    scale:       1
+},
+{
+    name:        "KSFO WestJet 737",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   37.6137417, visualLon: -122.3894861,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     25,
+    scale:       1
+},
+{
+    name:        "KSFO Delta 757",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Delta%20757.glb",
+    visualLat:   37.614456 , visualLon: -122.382717,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     299,
+    scale:       1
+},
+{
+    name:        "KSFO Delta a320",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Delta%20A320.glb",
+    visualLat:   37.614678, visualLon: -122.383131,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     299,
+    scale:       1
+},
+{
+    name:        "KSFO Delta a320",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Delta%20A320.glb",
+    visualLat:   37.614444, visualLon: -122.382358,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     261,
+    scale:       1
+},
+{
+    name:        "KSFO Delta a320",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Delta%20A320.glb",
+    visualLat:   37.614564, visualLon: -122.382044,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     226,
+    scale:       1
+},
+{
+    name:        "KSFO Delta a320",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Delta%20A320.glb",
+    visualLat:   37.615231, visualLon: -122.382383,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     133,
+    scale:       1
+},
+{
+    name:        "KSFO Delta 757",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Delta%20757.glb",
+    visualLat:   37.615600, visualLon: -122.383397,
+    alt:         1.4,        visualAlt: 1.4,
+    heading:     129,
+    scale:       1
+},
     // === CYYZ === (Elevation: 82m)
     // Air Canada
     {
@@ -2103,6 +2472,47 @@
     visualLat:   51.132489, visualLon: -114.014950,
     alt:         1079.4,    visualAlt: 0,
     heading:     270,
+    scale:       1
+},
+// === CYLW ===
+{
+    name: "CYLW Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:   49.951478, visualLon: -119.380175,
+    alt:         420,    visualAlt: 0,
+    heading:     219,
+    scale:       1
+},
+{
+    name: "CYLW Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+    visualLat:   49.952003, visualLon: -119.380353,
+    alt:         420,    visualAlt: 0,
+    heading:     219,
+    scale:       0.33
+},
+{
+    name: "CYLW WestJet",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/WestJet%2B737-700.glb",
+    visualLat:   49.949861, visualLon: -119.380250,
+    alt:         420.5,    visualAlt: 0,
+    heading:     219,
+    scale:       1
+},
+{
+    name: "CYLW Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Air%20Canada%20A320.glb",
+    visualLat:   49.950772, visualLon: -119.380350,
+    alt:         420,    visualAlt: 0,
+    heading:     219,
+    scale:       1
+},
+{
+    name: "CYLW WestJet",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/WestJet%2B737-700.glb",
+    visualLat:   49.952656, visualLon: -119.380250,
+    alt:         420.5,    visualAlt: 0,
+    heading:     219,
     scale:       1
 },
     // === MMMX === (Elevation: 1118.5m)
