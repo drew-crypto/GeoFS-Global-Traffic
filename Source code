@@ -1700,6 +1700,255 @@
     heading:     129,
     scale:       1
 },
+// === KSKA ===
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.616728, visualLon: -117.663114,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.616975, visualLon: -117.662272,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.617139, visualLon: -117.661508,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.617353, visualLon: -117.660761,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.617861, visualLon: -117.659030,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA B-1",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/B-1.glb",
+    visualLat:   47.618831, visualLon: -117.653217,
+    alt:         740.5,    visualAlt: 0,
+    heading:     336,
+    scale:       1
+},
+{
+    name: "KSKA B-1",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/B-1.glb",
+    visualLat:   47.6185611, visualLon: -117.6541556,
+    alt:         740.5,    visualAlt: 0,
+    heading:     336,
+    scale:       1
+},
+{
+    name: "KSKA B-1",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/B-1.glb",
+    visualLat:   47.6183500, visualLon: -117.6551222,
+    alt:         740.5,    visualAlt: 0,
+    heading:     336,
+    scale:       1
+},
+{
+    name: "KSKA B-1",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/B-1.glb",
+    visualLat:   47.6179750, visualLon: -117.6560639,
+    alt:         740.5,    visualAlt: 0,
+    heading:     336,
+    scale:       1
+},
+{
+    name: "KSKA B-1",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/B-1.glb",
+    visualLat:   47.6177500, visualLon: -117.6569333,
+    alt:         740.5,    visualAlt: 0,
+    heading:     336,
+    scale:       1
+},
+{
+    name: "KSKA F-15",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/F-15.glb",
+    visualLat:   47.6199472, visualLon: -117.6514722,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA F-15",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/F-15.glb",
+    visualLat:   47.6203361, visualLon: -117.6499500,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA F-15",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/F-15.glb",
+    visualLat:   47.6204167, visualLon: -117.6496694,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA F-15",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/F-15.glb",
+    visualLat:   47.6200306, visualLon: -117.6511889,
+    alt:         740.5,    visualAlt: 0,
+    heading:     245,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.6245361, visualLon: -117.6454583,
+    alt:         740.5,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.6242278, visualLon: -117.6460389,
+    alt:         740.5,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.624896, visualLon: -117.644951,
+    alt:         740.5,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.625251, visualLon: -117.644445,
+    alt:         740.5,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.625611, visualLon: -117.643939,
+    alt:         740.5,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.625969, visualLon: -117.643437,
+    alt:         740.5,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.626334, visualLon: -117.642936,
+    alt:         740.5,    visualAlt: 0,
+    heading:     224,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.625346, visualLon: -117.645659,
+    alt:         740.5,    visualAlt: 0,
+    heading:     41,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.625713, visualLon: -117.645160,
+    alt:         740.5,    visualAlt: 0,
+    heading:     41,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.626067, visualLon: -117.644645,
+    alt:         740.5,    visualAlt: 0,
+    heading:     41,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.626417, visualLon: -117.644137,
+    alt:         740.5,    visualAlt: 0,
+    heading:     41,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.626775, visualLon: -117.643631,
+    alt:         740.5,    visualAlt: 0,
+    heading:     41,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.626112, visualLon: -117.649144,
+    alt:         740.5,    visualAlt: 0,
+    heading:     315,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.625749, visualLon: -117.648615,
+    alt:         740.5,    visualAlt: 0,
+    heading:     315,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.625399, visualLon: -117.648106,
+    alt:         740.5,    visualAlt: 0,
+    heading:     315,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.625063, visualLon: -117.647563,
+    alt:         740.5,    visualAlt: 0,
+    heading:     315,
+    scale:       1
+},
+{
+    name: "KSKA KC-135",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/KC-135%2BStratotanker%2BU.%2BS.%2BAir%2BForce.glb",
+    visualLat:   47.624721, visualLon: -117.647030,
+    alt:         740.5,    visualAlt: 0,
+    heading:     315,
+    scale:       1
+},
     // === CYYZ === (Elevation: 82m)
     // Air Canada
     {
