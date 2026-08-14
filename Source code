@@ -2580,6 +2580,40 @@
     heading:     99,
     scale:       1
 },
+// === CYBW ===
+
+{
+    name: "CYBW TCA",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/DC-4M2%2BTCA.glb",
+    visualLat:   51.102421, visualLon: -114.375576,
+    alt:         1190.5,    visualAlt: 0,
+    heading:     180,
+    scale:       1
+},
+{
+    name: "CYBW arrow",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/avroarrow_2%5B1%5D.glb",
+    visualLat:   51.103243, visualLon: -114.376524,
+    alt:         1190.5,    visualAlt: 0,
+    heading:     0,
+    scale:       1
+},
+{
+    name: "CYBW DC-8",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Untitled.glb",
+    visualLat:   51.102858, visualLon: -114.375648,
+    alt:         1190.5,    visualAlt: 0,
+    heading:     180,
+    scale:       1
+},
+{
+    name: "CYBW RCAF",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/GeoFS-models@main/RCAF%2BCC-106%20(1).glb",
+    visualLat:   51.103343, visualLon: -114.375648,
+    alt:         1190.5,    visualAlt: 0,
+    heading:     180,
+    scale:       1
+},
     // === MMMX === (Elevation: 1118.5m)
     // Aeromexico
     {
