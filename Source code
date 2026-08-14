@@ -2515,6 +2515,71 @@
     heading:     219,
     scale:       1
 },
+// === CYYJ ===
+{
+    name: "CYYJ WestJet",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/WestJet%2B737-700.glb",
+    visualLat:   48.641290, visualLon: -123.433113,
+    alt:         14.5,    visualAlt: 0,
+    heading:     99,
+    scale:       1
+},
+{
+    name: "CYYJ WestJet",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/WestJet%2B737-700.glb",
+    visualLat:   48.641493, visualLon: -123.433640,
+    alt:         14.5,    visualAlt: 0,
+    heading:     99,
+    scale:       1
+},
+{
+    name: "CYYJ Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Air%20Canada%20A320.glb",
+    visualLat:   48.641050, visualLon: -123.431796,
+    alt:         14.5,    visualAlt: 0,
+    heading:     99,
+    scale:       1
+},
+{
+    name: "CYYJ WestJet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   48.641077, visualLon: -123.431078,
+    alt:         14.5,    visualAlt: 0,
+    heading:     64,
+    scale:       1
+},
+{
+    name: "CYYJ Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:   48.641974, visualLon: -123.430439,
+    alt:         14.5,    visualAlt: 0,
+    heading:     214,
+    scale:       1
+},
+{
+    name: "CYYJ Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/Air%20Canada%20Dash8%20Q400.glb",
+    visualLat:   48.641911, visualLon: -123.429657,
+    alt:         14.5,    visualAlt: 0,
+    heading:     214,
+    scale:       1
+},
+{
+    name: "CYYJ Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+    visualLat:   48.641011, visualLon: -123.429846,
+    alt:         14.5,    visualAlt: 0,
+    heading:     138,
+    scale:       0.33
+},
+{
+    name: "CYYJ WestJet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   48.640820, visualLon: -123.429106,
+    alt:         14.5,    visualAlt: 0,
+    heading:     99,
+    scale:       1
+},
     // === MMMX === (Elevation: 1118.5m)
     // Aeromexico
     {
