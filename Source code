@@ -8374,6 +8374,358 @@
     scale:       1
 },
 {
+    name:        "ZBAA Air China 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   40.052943, visualLon: 116.605005,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     60,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/China%20Airlines%20B737.glb",
+    visualLat:   40.053813, visualLon: 116.606367,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     54,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   40.054929, visualLon: 116.607247,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     48,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/China%20Airlines%20B737.glb",
+    visualLat:   40.056077, visualLon: 116.607698,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     0,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 5",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   40.057968, visualLon: 116.606936,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     345,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 6",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/China%20Airlines%20B737.glb",
+    visualLat:   40.059585, visualLon: 116.607054,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     345,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 7",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/China%20Airlines%20B737.glb",
+    visualLat:   40.060900, visualLon: 116.609693,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     165,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 8",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   40.059069, visualLon: 116.609940,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     165,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 9",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   40.057443, visualLon: 116.610122,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     165,
+    scale:       1
+},
+{
+    name:        "ZBAA Air China 10",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/China%20Airlines%20B737.glb",
+    visualLat:   40.056654, visualLon: 116.610348,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     125,
+    scale:       1
+},
+{
+    name:        "ZBAA Hainan 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Hainan%20A330.glb",
+    visualLat:   40.077256, visualLon: 116.589802,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA Hainan 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Hainan%20A330.glb",
+    visualLat:   40.078085, visualLon: 116.589523,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA Hainan 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Hainan%20A330.glb",
+    visualLat:   40.079085, visualLon: 116.589383,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA Sichuan (sub China Eastern) 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/China%20Eastern%20B777.glb",
+    visualLat:   40.082174, visualLon: 116.587602,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     80,
+    scale:       1
+},
+{
+    name:        "ZBAA Sichuan (sub China Eastern) 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/China%20Eastern%20B777.glb",
+    visualLat:   40.076474, visualLon: 116.591282,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     110,
+    scale:       1
+},
+{
+    name:        "ZBAA China Eastern 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/China%20Eastern%20B777.glb",
+    visualLat:   40.079692, visualLon: 116.589319,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA China Eastern 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/China%20Eastern%20B777.glb",
+    visualLat:   40.082662, visualLon: 116.589845,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     80,
+    scale:       1
+},
+{
+    name:        "ZBAA China Eastern 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/China%20Eastern%20B777.glb",
+    visualLat:   40.082295, visualLon: 116.586787,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     80,
+    scale:       1
+},
+{
+    name:        "ZBAA Cathay Pacific 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Cathay%20Pacific%20777.glb",
+    visualLat:   40.081713, visualLon: 116.586186,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "ZBAA Macau Airlines (sub Cathay) 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Cathay%20Pacific%20777.glb",
+    visualLat:   40.082322, visualLon: 116.589104,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     80,
+    scale:       1
+},
+{
+    name:        "ZBAA Macau Airlines (sub Cathay) 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Cathay%20Pacific%20777.glb",
+    visualLat:   40.081705, visualLon: 116.590585,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "ZBAA EVA Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Eva%20Air%20777.glb",
+    visualLat:   40.081089, visualLon: 116.583751,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     240,
+    scale:       1
+},
+{
+    name:        "ZBAA EVA Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Eva%20Air%20777.glb",
+    visualLat:   40.081679, visualLon: 116.583815,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     110,
+    scale:       1
+},
+{
+    name:        "ZBAA United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20B777.glb",
+    visualLat:   40.067165, visualLon: 116.608416,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20787.glb",
+    visualLat:   40.066336, visualLon: 116.608674,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA ANA",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/ANA%20777.glb",
+    visualLat:   40.064667, visualLon: 116.608813,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA Air France",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20France%20777.glb",
+    visualLat:   40.081582, visualLon: 116.582839,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     10,
+    scale:       1
+},
+{
+    name:        "ZBAA Aeroflot 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/Aeroflot%20777.glb",
+    visualLat:   40.081245, visualLon: 116.580972,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     160,
+    scale:       1
+},
+{
+    name:        "ZBAA Aeroflot 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/Aeroflot%20777.glb",
+    visualLat:   40.081196, visualLon: 116.579867,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     0,
+    scale:       1
+},
+{
+    name:        "ZBAA KLM",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/KLM%20777.glb",
+    visualLat:   40.081582, visualLon: 116.580403,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     96,
+    scale:       1
+},
+{
+    name:        "ZBAA Qatar Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-15@main/models/Qatar%20A350.glb",
+    visualLat:   40.080811, visualLon: 116.580157,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     330,
+    scale:       1
+},
+{
+    name:        "ZBAA Ethiopian",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+    visualLat:   40.075580, visualLon: 116.587012,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "ZBAA Korean Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Korean%20Air%20787.glb",
+    visualLat:   40.075162, visualLon: 116.587935,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     260,
+    scale:       1
+},
+{
+    name:        "ZBAA Malaysia Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Malaysia%20Airlines%20777.glb",
+    visualLat:   40.075400, visualLon: 116.589383,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     260,
+    scale:       1
+},
+{
+    name:        "ZBAA Pakistan International Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/PIA%20777.glb",
+    visualLat:   40.075473, visualLon: 116.591089,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     260,
+    scale:       1
+},
+{
+    name:        "ZBAA Air Koryo",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-21@main/models/Air%20Koryo%20TU134.glb",
+    visualLat:   40.075990, visualLon: 116.591755,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA Egyptair",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
+    visualLat:   40.072247, visualLon: 116.605337,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "ZBAA Swiss",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/Swiss%20B777.glb",
+    visualLat:   40.066058, visualLon: 116.606238,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "ZBAA Turkish",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Turkish%20777.glb",
+    visualLat:   40.066785, visualLon: 116.606152,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "ZBAA Japan Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
+    visualLat:   40.067511, visualLon: 116.605964,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "ZBAA Thai",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/Thai%20777.glb",
+    visualLat:   40.070466, visualLon: 116.605520,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "ZBAA Austrian",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-5@main/models/Austrian%20777.glb",
+    visualLat:   40.075482, visualLon: 116.607247,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA Emirates 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Emirates%20777.glb",
+    visualLat:   40.072947, visualLon: 116.607462,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "ZBAA Emirates 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Emirates%20777.glb",
+    visualLat:   40.071593, visualLon: 116.607773,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
     name:        "VIDP Indigo 1",
     model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
     visualLat:   28.56573,  visualLon: 77.11523,
