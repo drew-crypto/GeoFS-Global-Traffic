@@ -506,7 +506,7 @@
 },
 {
     name:        "KLAX Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   33.942529, visualLon: -118.410842,
     alt:         22,        visualAlt: 22,
     heading:     330,
@@ -1023,7 +1023,7 @@
 },
 {
     name:        "KEWR Qatar Airways",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
     visualLat:   40.697769, visualLon: -74.179832,
     alt:         3.6,       visualAlt: 3.6,
     heading:     320,
@@ -2151,7 +2151,7 @@
     },
     {
         name:        "CYYZ Saudia",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
         visualLat:   43.681294, visualLon: -79.607717,
         alt:         82,        visualAlt: 82,
         heading:     225,
@@ -3469,7 +3469,7 @@
     },
     {
         name:        "SKBO Qatar Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
         visualLat:   4.697097, visualLon: -74.137971,
         alt:         1271.5,   visualAlt: 1271.5,
         heading:     104,
@@ -3756,7 +3756,7 @@
     // Qatar Airways
     {
         name:        "SAEZ Qatar Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Qatar%20Airways%20A330.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
         visualLat:   -34.814138, visualLon: -58.537249,
         alt:         10.1,       visualAlt: 10.1,
         heading:     222,
@@ -3956,7 +3956,7 @@
     // Qatar Airways
     {
         name:        "MPTO Qatar Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
         visualLat:   9.063688,   visualLon: -79.389041,
         alt:         7.5,        visualAlt: 7.5,
         heading:     184,
@@ -4576,7 +4576,7 @@
     },
     {
         name:        "EHAM Saudia",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
         visualLat:   52.312290, visualLon: 4.762736,
         alt:         -1,        visualAlt: -1,
         heading:     195,
@@ -4680,7 +4680,7 @@
     },
     {
         name:        "EHAM Qatar Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
         visualLat:   52.309055, visualLon: 4.773755,
         alt:         -1,        visualAlt: -1,
         heading:     275,
@@ -4934,7 +4934,7 @@
     },
     {
         name:        "LTFM Saudia",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
         visualLat:   41.258241, visualLon: 28.735465,
         alt:         64.3,      visualAlt: 64.3,
         heading:     20,
@@ -5150,7 +5150,7 @@
     // Saudia
     {
         name:        "LFPG Saudia",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
         lat:         49.00168,  lon: 2.577396,
         visualLat:   49.00168,  visualLon: 2.577396,
         alt:         52.3,      visualAlt: 52.3,
@@ -5159,7 +5159,7 @@
     },
     {
         name:        "LFPG Saudia",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
         lat:         49.00174,  lon: 2.578378,
         visualLat:   49.00174,  visualLon: 2.578378,
         alt:         52.3,      visualAlt: 52.3,
@@ -6190,7 +6190,7 @@
 },
 {
     name:        "LIRF Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   41.798223, visualLon: 12.251778,
     alt:         6.0,       visualAlt: 6.0,
     heading:     27,
@@ -6348,7 +6348,7 @@
     // Qatar Airways
     {
         name:        "UUEE Qatar Airways",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
         lat:         55.98055,  lon: 37.4162,
         visualLat:   55.98055,  visualLon: 37.4162,
         alt:         92.4,      visualAlt: 92.4,
@@ -6844,7 +6844,7 @@
     // Saudia
     {
         name:        "HECA Saudia",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb ",
         visualLat:   30.111309,  visualLon: 31.400949,
         alt:         43.5,       visualAlt: 43.5,
         heading:     287,
@@ -6852,7 +6852,7 @@
     },
     {
         name:        "HECA Saudia",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb ",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb ",
         visualLat:   30.111156,  visualLon: 31.401684,
         alt:         43.5,       visualAlt: 43.5,
         heading:     288,
@@ -7279,7 +7279,7 @@
     },
     {
         name:        "DAAG Qatar",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
         visualLat:   36.697278,  visualLon: 3.208277,
         alt:         8.3,        visualAlt: 8.3,
         heading:     250,
@@ -8119,7 +8119,7 @@
 },
 {
     name:        "ZSPD Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   31.15401,  visualLon: 121.7957,
     alt:         1.72,      visualAlt: 1.72,
     heading:     338,
@@ -9111,7 +9111,7 @@
 },
 {
     name:        "VOHS Saudia 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   17.234196, visualLon: 78.424833,
     alt:         300.9,       visualAlt: 300.9,
     heading:     310,
@@ -9119,7 +9119,7 @@
 },
 {
     name:        "VOHS Saudia 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   17.235204, visualLon: 78.423862,
     alt:         300.7,       visualAlt: 300.7,
     heading:     360,
@@ -9599,7 +9599,7 @@
 },
 {
     name:        "WSSS Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   1.362835,  visualLon: 103.988538,
     alt:         2.84,      visualAlt: 2.84,
     heading:     23,
@@ -9687,7 +9687,7 @@
 },
 {
     name:        "RKSI Qatar Airways",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
     visualLat:   37.44564,  visualLon: 126.4488,
     alt:         1.98,      visualAlt: 1.98,
     heading:     258,
@@ -9959,7 +9959,7 @@
 },
 {
     name:        "RKSI Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   37.467654, visualLon: 126.439145,
     alt:         2.05,      visualAlt: 2.05,
     heading:     325,
@@ -10255,7 +10255,7 @@
 },
 {
     name:        "WIII Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   -6.122291, visualLon: 106.656145,
     alt:         4.2,       visualAlt: 4.2,
     heading:     210,
@@ -10415,7 +10415,7 @@
 },
 {
     name:        "WMKK Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   2.746325,  visualLon: 101.7121,
     alt:         12.05,     visualAlt: 12.05,
     heading:     240,
@@ -10927,7 +10927,7 @@
 },
 {
     name:        "VTBS Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   13.681746, visualLon: 100.752735,
     alt:         1.83,       visualAlt: 1.83,
     heading:     105,
@@ -11119,7 +11119,7 @@
 },
 {
     name:        "OTHH Qatar Airways 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
     visualLat:   25.26982,  visualLon: 51.60883,
     alt:         1.55,      visualAlt: 1.55,
     heading:     65,
@@ -11151,7 +11151,7 @@
 },
 {
     name:        "OTHH Qatar Airways 6",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
     visualLat:   25.26518,  visualLon: 51.61255,
     alt:         1.5,      visualAlt: 1.5,
     heading:     160,
@@ -11239,7 +11239,7 @@
 },
 {
     name:        "OTHH Saudia",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Saudia%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Saudia%20787.glb",
     visualLat:   25.261009, visualLon: 51.610556,
     alt:         1.6,       visualAlt: 1.6,
     heading:     50,
@@ -11807,7 +11807,7 @@
 },
 {
     name:        "YSSY Qatar Airways",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Qatar%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Qatar%20Airways%20787.glb",
     visualLat:   -33.938655, visualLon: 151.165203,
     alt:         2,         visualAlt: 2,
     heading:     354,
