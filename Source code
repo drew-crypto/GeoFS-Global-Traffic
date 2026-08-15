@@ -8190,6 +8190,190 @@
     scale:       1
 },
 {
+    name:        "ZHCC Batik Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Batik%20Air%20A320.glb",
+    visualLat:   34.525945, visualLon: 113.839957,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     300,
+    scale:       1
+},
+{
+    name:        "ZHCC Batik Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Batik%20Air%20A320.glb",
+    visualLat:   34.525424, visualLon: 113.841272,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     300,
+    scale:       1
+},
+{
+    name:        "ZHCC Batik Air 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Batik%20Air%20A320.glb",
+    visualLat:   34.526889, visualLon: 113.829560,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     120,
+    scale:       1
+},
+{
+    name:        "ZHCC Air China 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   34.522809, visualLon: 113.844276,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "ZHCC Air China 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   34.521941, visualLon: 113.849925,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "ZHCC China Southern 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/China%20Southern%20A330.glb",
+    visualLat:   34.522875, visualLon: 113.845805,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "ZHCC China Southern 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/China%20Southern%20A330.glb",
+    visualLat:   34.522645, visualLon: 113.848557,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "ZHCC China Southern 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/China%20Southern%20A330.glb",
+    visualLat:   34.525694, visualLon: 113.850697,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "ZHCC Hainan Airlines 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Hainan%20A330.glb",
+    visualLat:   34.523648, visualLon: 113.850477,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "ZHCC Hainan Airlines 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Hainan%20A330.glb",
+    visualLat:   34.530255, visualLon: 113.852349,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "ZHCC China Eastern 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/China%20Eastern%20B777.glb",
+    visualLat:   34.521981, visualLon: 113.848208,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "ZHCC China Eastern 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-28@main/models/China%20Eastern%20B777.glb",
+    visualLat:   34.529489, visualLon: 113.853680,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "ZHCC Air China ",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/China%20Airlines%20B737.glb",
+    visualLat:   34.526356, visualLon: 113.838756,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     300,
+    scale:       1
+},
+{
+    name:        "ZHCC Madarin Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Madarin%20Airlines%20B737.glb",
+    visualLat:   34.525292, visualLon: 113.841712,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     300,
+    scale:       1
+},
+{
+    name:        "ZHCC Sichuan Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Sichuan%20Airlines%20A330.glb",
+    visualLat:   34.524876, visualLon: 113.842886,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     300,
+    scale:       1
+},
+{
+    name:        "ZHCC Korean Air 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Korean%20Air%20787.glb",
+    visualLat:   34.526895, visualLon: 113.851298,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "ZHCC Korean Air 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Korean%20Air%20787.glb",
+    visualLat:   34.530148, visualLon: 113.854050,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "ZHCC Asiana",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-21@main/models/Asiana%20A350.glb",
+    visualLat:   34.528266, visualLon: 113.852998,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "ZHCC EVA Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Eva%20Air%20777.glb",
+    visualLat:   34.530944, visualLon: 113.853460,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     120,
+    scale:       1
+},
+{
+    name:        "ZHCC Private 727",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-10@main/models/Private%20727.glb",
+    visualLat:   34.526723, visualLon: 113.830092,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     120,
+    scale:       1
+},
+{
+    name:        "ZHCC Bombardier G6000",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-5@main/models/Bombardier%20G6000.glb",
+    visualLat:   34.525765, visualLon: 113.833150,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     120,
+    scale:       1
+},
+{
+    name:        "ZHCC Xiamen Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Xiamen%20Airlines%20787.glb",
+    visualLat:   34.531245, visualLon: 113.848380,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     30,
+    scale:       1
+},
+{
+    name:        "ZHCC Juneyao Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Juneyao%20Air%20787.glb",
+    visualLat:   34.532216, visualLon: 113.850348,
+    alt:         4.2,       visualAlt: 4.2,
+    heading:     125,
+    scale:       1
+},
+{
     name:        "VIDP Indigo 1",
     model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Indigo%20A320.glb",
     visualLat:   28.56573,  visualLon: 77.11523,
