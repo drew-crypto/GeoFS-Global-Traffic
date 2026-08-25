@@ -4328,7 +4328,111 @@
         heading:     90,
         scale:       1
     },
-
+    // === EGLC ===
+{
+    name: "EGLC DLH",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Lufthansa%2BE190.glb",
+    visualLat:   51.504617, visualLon: 0.044408,
+    alt:         4,    visualAlt: 0,
+    heading:     226,
+    scale:       1
+},
+{
+    name: "EGLC Swiss",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Swiss%2BAirbus%2BA220-300%2B.glb",
+    visualLat:   51.504356, visualLon: 0.045225,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       0.8
+},
+{
+    name: "EGLC LoganAir",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Loganair.glb",
+    visualLat:   51.504328, visualLon: 0.046478,
+    alt:         4,    visualAlt: 0,
+    heading:     91.5,
+    scale:       1
+},
+{
+    name: "EGLC BA",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Cityflyer%2BE190!!!!!.glb",
+    visualLat:   51.504306, visualLon: 0.047102,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC BA",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Cityflyer%2BE190!!!!!.glb",
+    visualLat:   51.504286, visualLon: 0.047728,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC AF",
+    model:       "https://github.com/farmer696/Air-Canada-777-300Er/blob/main/Air%2BFrance%2BAirbus%2BA220-300.glb",
+    visualLat:   51.504267, visualLon: 0.047102,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC AF",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Air%2BFrance%2BAirbus%2BA220-300.glb",
+    visualLat:   51.503990, visualLon: 0.050877,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC DLH",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Lufthansa%2BE190.glb",
+    visualLat:   51.503951, visualLon: 0.052244,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC BA",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Cityflyer%2BE190!!!!!.glb",
+    visualLat:   51.503929, visualLon: 0.052927,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC BA",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Cityflyer%2BE190!!!!!.glb",
+    visualLat:   51.503934, visualLon: 0.053622,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC BA",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Cityflyer%2BE190!!!!!.glb",
+    visualLat:   51.503913, visualLon: 0.054304,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC swiss",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Swiss%2BBAe-146.glb",
+    visualLat:   51.503880, visualLon: 0.055730,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
+{
+    name: "EGLC logan air",
+    model:       "https://cdn.jsdelivr.net/gh/farmer696/Air-Canada-777-300Er@main/Loganair.glb",
+    visualLat:   51.503890, visualLon: 0.054990,
+    alt:         4,    visualAlt: 0,
+    heading:     91,
+    scale:       1
+},
     // === EHAM (Amsterdam Airport Schiphol: Alt -1) ===
     // KLM
     {
