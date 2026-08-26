@@ -1949,6 +1949,438 @@
     heading:     315,
     scale:       1
 },
+ {
+    name:        "KJFK Delta 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   40.640993, visualLon: -73.783052,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     320,
+    scale:       1
+},
+{
+    name:        "KJFK Delta 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   40.639210, visualLon: -73.781883,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "KJFK Delta 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   40.638458, visualLon: -73.781792,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "KJFK Delta 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   40.637903, visualLon: -73.781641,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "KJFK Delta 5",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   40.637244, visualLon: -73.781663,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "KJFK Delta 6",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   40.636210, visualLon: -73.781250,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "KJFK Delta 7",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   40.635721, visualLon: -73.781191,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "KJFK Delta Wide",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20777.glb",
+    visualLat:   40.642912, visualLon: -73.780208,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     295,
+    scale:       1
+},
+{
+    name:        "KJFK Delta Wide 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20777.glb",
+    visualLat:   40.642164, visualLon: -73.778771,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     315,
+    scale:       1
+},
+{
+    name:        "KJFK JetBlue 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Jetblue%20A321.glb",
+    visualLat:   40.644665, visualLon: -73.775338,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     210,
+    scale:       1
+},
+{
+    name:        "KJFK JetBlue 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Jetblue%20A321.glb",
+    visualLat:   40.645385, visualLon: -73.773761,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "KJFK JetBlue 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Jetblue%20A321.glb",
+    visualLat:   40.645389, visualLon: -73.772715,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     270,
+    scale:       1
+},
+{
+    name:        "KJFK JetBlue 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Jetblue%20A321.glb",
+    visualLat:   40.646166, visualLon: -73.773139,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "KJFK JetBlue 5",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Jetblue%20A321.glb",
+    visualLat:   40.646202, visualLon: -73.774083,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     90,
+    scale:       1
+},
+{
+    name:        "KJFK JetBlue 6",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Jetblue%20A321.glb",
+    visualLat:   40.646398, visualLon: -73.775145,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     135,
+    scale:       1
+},
+{
+    name:        "KJFK American 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/American%20777.glb",
+    visualLat:   40.647668, visualLon: -73.793363,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "KJFK American 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/American%20777.glb",
+    visualLat:   40.648368, visualLon: -73.791828,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "KJFK American 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   40.649276, visualLon: -73.789828,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     335,
+    scale:       1
+},
+{
+    name:        "KJFK American 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   40.648853, visualLon: -73.794639,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "KJFK Alaska 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Alaska%20737.glb",
+    visualLat:   40.646830, visualLon: -73.793153,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "KJFK Alaska 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Alaska%20737%20v2.glb",
+    visualLat:   40.646700, visualLon: -73.794511,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     335,
+    scale:       1
+},
+{
+    name:        "KJFK British Airways 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/British%20Airways%20777.glb",
+    visualLat:   40.649549, visualLon: -73.793019,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "KJFK British Airways 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/British%20Airways%20777.glb",
+    visualLat:   40.650533, visualLon: -73.790750,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     245,
+    scale:       1
+},
+{
+    name:        "KJFK Virgin Atlantic 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Virgin%20Atlantic%20A330.glb",
+    visualLat:   40.637779, visualLon: -73.780489,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "KJFK Virgin Atlantic 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Virgin%20Atlantic%20A330.glb",
+    visualLat:   40.638499, visualLon: -73.780627,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "KJFK Air France",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20France%20777.glb",
+    visualLat:   40.643899, visualLon: -73.792247,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     0,
+    scale:       1
+},
+{
+    name:        "KJFK Lufthansa",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-33@main/models/Lufthansa%20787.glb",
+    visualLat:   40.641649, visualLon: -73.793073,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     40,
+    scale:       1
+},
+{
+    name:        "KJFK Emirates 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Emirates%20777.glb",
+    visualLat:   40.635441, visualLon: -73.781126,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     350,
+    scale:       1
+},
+{
+    name:        "KJFK Singapore Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    visualLat:   40.637182, visualLon: -73.780451,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "KJFK Emirates 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Emirates%20777.glb",
+    visualLat:   40.641235, visualLon: -73.781818,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     135,
+    scale:       1
+},
+{
+    name:        "KJFK KLM",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/KLM%20777.glb",
+    visualLat:   40.636295, visualLon: -73.780354,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "KJFK TAP",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/TAP%20A330.glb",
+    visualLat:   40.642222, visualLon: -73.790815,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     250,
+    scale:       1
+},
+{
+    name:        "KJFK Air India",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20India%20787.glb",
+    visualLat:   40.641391, visualLon: -73.777580,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     250,
+    scale:       1
+},
+{
+    name:        "KJFK Sun Country 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45@main/models/Sun%20Country%20B737.glb",
+    visualLat:   40.646931, visualLon: -73.775730,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     135,
+    scale:       1
+},
+{
+    name:        "KJFK Sun Country 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45@main/models/Sun%20Country%20B737.glb",
+    visualLat:   40.647383, visualLon: -73.776636,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     135,
+    scale:       1
+},
+{
+    name:        "KJFK Sun Country 3",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45@main/models/Sun%20Country%20B737.glb",
+    visualLat:   40.647692, visualLon: -73.777479,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     135,
+    scale:       1
+},
+{
+    name:        "KJFK Sun Country 4",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45@main/models/Sun%20Country%20B737.glb",
+    visualLat:   40.648087, visualLon: -73.778332,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     135,
+    scale:       1
+},
+{
+    name:        "KJFK ANA",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/ANA%20777.glb",
+    visualLat:   40.650940, visualLon: -73.783176,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     135,
+    scale:       1
+},
+{
+    name:        "KJFK Asiana",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-21@main/models/Asiana%20A350.glb",
+    visualLat:   40.642763, visualLon: -73.791834,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     2,
+    scale:       1
+},
+{
+    name:        "KJFK Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Air%20Canada%20A320.glb",
+    visualLat:   40.650220, visualLon: -73.782350,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     110,
+    scale:       1
+},
+{
+    name:        "KJFK Aeromexico 1",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-31@main/models/Aeromexico%20B737.glb",
+    visualLat:   40.641585, visualLon: -73.783523,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     320,
+    scale:       1
+},
+{
+    name:        "KJFK Aeromexico 2",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Aeromexico%20B787.glb",
+    visualLat:   40.640422, visualLon: -73.782633,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     320,
+    scale:       1
+},
+{
+    name:        "KJFK WestJet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Westjet%20B737MAX.glb",
+    visualLat:   40.639572, visualLon: -73.780691,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "KJFK Egyptair",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
+    visualLat:   40.650997, visualLon: -73.791866,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "KJFK Ethiopian",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-26@main/models/Ethiopian%20A350.glb",
+    visualLat:   40.650952, visualLon: -73.783567,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     70,
+    scale:       1
+},
+{
+    name:        "KJFK Royal Air Maroc",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/Royal%20Air%20Maroc%20787.glb",
+    visualLat:   40.641332, visualLon: -73.792177,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     220,
+    scale:       1
+},
+{
+    name:        "KJFK Kenya Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Kenya%20Airways%20B787.glb",
+    visualLat:   40.635514, visualLon: -73.780139,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     170,
+    scale:       1
+},
+{
+    name:        "KJFK South African",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/South%20African%20A340.glb",
+    visualLat:   40.643026, visualLon: -73.777794,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     135,
+    scale:       1
+},
+{
+    name:        "KJFK Xiamen",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/Xiamen%20Airlines%20787.glb",
+    visualLat:   40.643491, visualLon: -73.778674,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     110,
+    scale:       1
+},
+{
+    name:        "KJFK Norse",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Norse%20787.glb",
+    visualLat:   40.650558, visualLon: -73.783771,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     10,
+    scale:       1
+},
+{
+    name:        "KJFK Iberia",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Iberia%20A330.glb",
+    visualLat:   40.650623, visualLon: -73.792542,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "KJFK Cathay Pacific",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Cathay%20Pacific%20777.glb",
+    visualLat:   40.650182, visualLon: -73.793533,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "KJFK Japan Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-38@main/models/Japan%20Airlines%20A350.glb",
+    visualLat:   40.649970, visualLon: -73.794070,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     65,
+    scale:       1
+},
+{
+    name:        "KJFK China Southern",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/China%20Southern%20A330.glb",
+    visualLat:   40.649515, visualLon: -73.795229,
+    alt:         4.2,        visualAlt: 4.2,
+    heading:     65,
+    scale:       1
+},
     // === CYYZ === (Elevation: 82m)
     // Air Canada
     {
