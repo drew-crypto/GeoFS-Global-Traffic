@@ -2381,6 +2381,126 @@
     heading:     65,
     scale:       1
 },
+{
+    name:        "Southwest",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-17@main/models/Southwest%20737.glb",
+    visualLat:   41.931428,
+    visualLon:  -72.684664,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     50,
+    scale:       1
+  },
+  {
+    name:        "American Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   41.929980,
+    visualLon:  -72.682964,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "American Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   41.930007,
+    visualLon:  -72.681907,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "Breeze",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-46/raw/main/models/Breeze%20A220.glb",
+    visualLat:   41.929995,
+    visualLon:  -72.682422,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "Breeze",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-46/raw/main/models/Breeze%20A220.glb",
+    visualLat:   41.929972,
+    visualLon:  -72.681070,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     45,
+    scale:       1
+  },
+  {
+    name:        "Breeze",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-46/raw/main/models/Breeze%20A220.glb",
+    visualLat:   41.929361,
+    visualLon:  -72.681891,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "Delta",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   41.931731,
+    visualLon:  -72.683361,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     150,
+    scale:       1
+  },
+  {
+    name:        "Delta",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   41.931145,
+    visualLon:  -72.683672,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     180,
+    scale:       1
+  },
+  {
+    name:        "Frontier",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-20@main/models/Frontier%20A320.glb ",
+    visualLat:   41.930670,
+    visualLon:  -72.684450,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     230,
+    scale:       1
+  },
+  {
+    name:        "jetBlue",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-8@main/models/Jetblue%20A321.glb",
+    visualLat:   41.930953,
+    visualLon:  -72.684010,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     230,
+    scale:       1
+  },
+  {
+    name:        "Southwest",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-17@main/models/Southwest%20737.glb",
+    visualLat:   41.929353,
+    visualLon:  -72.682395,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     230,
+    scale:       1
+  },
+  {
+    name:        "Sun Country",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45@main/models/Sun%20Country%20B737.glb",
+    visualLat:   41.931444,
+    visualLon:  -72.683382,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     180,
+    scale:       1
+  }
     // === CYYZ === (Elevation: 82m)
     // Air Canada
     {
