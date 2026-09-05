@@ -369,7 +369,7 @@
     // United
     {
         name:        "KLAX United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   33.942088, visualLon: -118.400113,
         alt:         22,        visualAlt: 22,
         heading:     319,
@@ -377,7 +377,7 @@
     },
     {
         name:        "KLAX United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   33.940451, visualLon: -118.399695,
         alt:         21.8,        visualAlt: 21.8,
         heading:     330,
@@ -385,7 +385,7 @@
     },
     {
         name:        "KLAX United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   33.941838, visualLon: -118.399309,
         alt:         21.8,        visualAlt: 21.8,
         heading:     180,
@@ -570,7 +570,7 @@
 },
 {
     name:        "KLAX Japan Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb ",
     visualLat:   33.940350, visualLon: -118.410406,
     alt:         22,        visualAlt: 22,
     heading:     330,
@@ -653,7 +653,7 @@
     },
     {
         name:        "KBOS United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   42.363019, visualLon: -71.016626,
         alt:         1.7,       visualAlt: 1.7,
         heading:     267,
@@ -769,7 +769,7 @@
 },
 {
     name:        "KBOS Westjet",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
     visualLat:   42.366186, visualLon: -71.013809,
     alt:         1.65,      visualAlt: 1.65,
     heading:     160,
@@ -871,7 +871,7 @@
     },
     {
     name:        "KEWR United 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   40.687492, visualLon: -74.177105,
     alt:         3.6,       visualAlt: 3.6,
     heading:     300,
@@ -879,7 +879,7 @@
 },
 {
     name:        "KEWR United 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   40.687861, visualLon: -74.176241,
     alt:         3.6,       visualAlt: 3.6,
     heading:     220,
@@ -943,7 +943,7 @@
 },
 {
     name:        "KEWR ANA",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/ANA%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-51@main/models/ANA%20787.glb ",
     visualLat:   40.694410, visualLon: -74.172472,
     alt:         3.6,       visualAlt: 3.6,
     heading:     135,
@@ -1007,7 +1007,7 @@
 },
 {
     name:        "KEWR Phillippine Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20777.glb ",
     visualLat:   40.699062, visualLon: -74.178963,
     alt:         3.6,       visualAlt: 3.6,
     heading:     95,
@@ -1089,7 +1089,7 @@
     // United
     {
         name:        "KORD United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
         visualLat:   41.979271,  visualLon: -87.909755,
         alt:         98.4,  visualAlt: 98.4,
         heading:     190,
@@ -1097,7 +1097,7 @@
     },
     {
         name:        "KORD United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   41.980657, visualLon: -87.910215,
         alt:         98.4,  visualAlt: 98.4,
         heading:     47,
@@ -1253,7 +1253,7 @@
 },
 {
     name:        "KORD ANA",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/ANA%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-51@main/models/ANA%20787.glb ",
     visualLat:   41.973442, visualLon: -87.900225,
     alt:         98.1,      visualAlt: 98.1,
     heading:     180,
@@ -1334,7 +1334,7 @@
  // === KSFO ===
 {
     name:        "KSFO united 777",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   37.617619, visualLon: -122.391636,
     alt:         1.4,        visualAlt: 1.4,
     heading:     298,
@@ -1342,7 +1342,7 @@
 },
 {
     name:        "KSFO united 777",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   37.617942, visualLon: -122.392344,
     alt:         1.4,        visualAlt: 1.4,
     heading:     298,
@@ -1350,7 +1350,7 @@
 },
 {
     name:        "KSFO united 777",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   37.618206, visualLon: -122.393103,
     alt:         1.4,        visualAlt: 1.4,
     heading:     298,
@@ -1358,7 +1358,7 @@
 },
 {
     name:        "KSFO united a320",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20737.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
     visualLat:   37.618330, visualLon: -122.393658,
     alt:         1.4,        visualAlt: 1.4,
     heading:     355,
@@ -1366,7 +1366,7 @@
 },
 {
     name:        "KSFO united a320",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20737.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
     visualLat:   37.618386, visualLon: -122.391953,
     alt:         1.4,        visualAlt: 1.4,
     heading:     117,
@@ -1374,7 +1374,7 @@
 },
 {
     name:        "KSFO united 777",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   37.617497, visualLon: -122.389703,
     alt:         1.4,        visualAlt: 1.4,
     heading:     117,
@@ -1382,7 +1382,7 @@
 },
 {
     name:        "KSFO united 777",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
     visualLat:   37.619917, visualLon: -122.388167,
     alt:         1.4,        visualAlt: 1.4,
     heading:     298,
@@ -1390,7 +1390,7 @@
 },
 {
     name:        "KSFO united 777",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   37.620611, visualLon: -122.389875,
     alt:         1.4,        visualAlt: 1.4,
     heading:     298,
@@ -1406,7 +1406,7 @@
 },
 {
     name:        "KSFO united 777",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   37.621356, visualLon: -122.390106,
     alt:         1.4,        visualAlt: 1.4,
     heading:     117,
@@ -1414,7 +1414,7 @@
 },
 {
     name:        "KSFO united 777",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   37.620869, visualLon: -122.388561,
     alt:         1.4,        visualAlt: 1.4,
     heading:     117,
@@ -1646,7 +1646,7 @@
 },
 {
     name:        "KSFO WestJet 737",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
     visualLat:   37.6137417, visualLon: -122.3894861,
     alt:         1.4,        visualAlt: 1.4,
     heading:     25,
@@ -2287,7 +2287,7 @@
 },
 {
     name:        "KJFK WestJet",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
     visualLat:   40.639572, visualLon: -73.780691,
     alt:         4.2,        visualAlt: 4.2,
     heading:     170,
@@ -2463,7 +2463,7 @@
   },
   {
     name:        "Frontier",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Frontier%20A320.glb ",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-51@main/models/Frontier%20A320.glb ",
     visualLat:   41.930670,
     visualLon:  -72.684450,
     alt:         4.2,
@@ -2582,7 +2582,7 @@
     // Westjet
     {
         name:        "CYYZ Westjet",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
         visualLat:   43.683535, visualLon: -79.619405,
         alt:         82.07,        visualAlt: 82.07,
         heading:     200,
@@ -2615,7 +2615,7 @@
     },
     {
         name:        "CYYZ United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   43.683507, visualLon: -79.620468,
         alt:         82.07,     visualAlt: 82.07,
         heading:     40,
@@ -2806,7 +2806,7 @@
     // Westjet
     {
         name:        "CYUL Westjet",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
         visualLat:   45.454958, visualLon: -73.754927,
         alt:         14.36,      visualAlt: 14.36,
         heading:     260,
@@ -2830,7 +2830,7 @@
     },
     {
         name:        "CYUL United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         visualLat:   45.459140, visualLon: -73.749518,
         alt:         14.57,     visualAlt: 14.57,
         heading:     90,
@@ -2977,7 +2977,7 @@
     },
     {
         name:        "CYVR Westjet",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
         visualLat:   49.191879, visualLon: -123.180346,
         alt:         1.75,       visualAlt: 1.75,
         heading:     286,
@@ -2986,7 +2986,7 @@
     // United
     {
         name:        "CYVR United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   49.197141, visualLon: -123.173206,
         alt:         2.2,       visualAlt: 2.2,
         heading:     243,
@@ -3067,7 +3067,7 @@
     },
     {
         name:        "CYVR Phillippine Airlines",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20777.glb ",
         visualLat:   49.197941, visualLon: -123.178035,
         alt:         2.2,       visualAlt: 2.2,
         heading:     120,
@@ -3075,7 +3075,7 @@
     },
     {
         name:        "CYVR United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   49.197879, visualLon: -123.175455,
         alt:         2.2,       visualAlt: 2.2,
         heading:     80,
@@ -3101,7 +3101,7 @@
 // Air Canada
 {
     name:        "CYYC Westjet",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
     visualLat:   51.129517, visualLon: -114.011678,
     alt:         1079.4,    visualAlt: 0,
     heading:     223,
@@ -3125,7 +3125,7 @@
 },
 {
     name:        "CYYC Westjet",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
     visualLat:   51.129433, visualLon: -114.007764,
     alt:         1079.4,    visualAlt: 0,
     heading:     180,
@@ -3245,7 +3245,7 @@
 },
 {
     name:        "CYYC Westjet",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
     visualLat:   51.133219, visualLon: -114.013400,
     alt:         1079.4,    visualAlt: 0,
     heading:     90,
@@ -3343,7 +3343,7 @@
 },
 {
     name: "CYYJ WestJet",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
     visualLat:   48.641077, visualLon: -123.431078,
     alt:         14.5,    visualAlt: 0,
     heading:     64,
@@ -3375,7 +3375,7 @@
 },
 {
     name: "CYYJ WestJet",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
     visualLat:   48.640820, visualLon: -123.429106,
     alt:         14.5,    visualAlt: 0,
     heading:     99,
@@ -3452,7 +3452,7 @@
     // United
     {
         name:        "MMMX United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   19.432188, visualLon: -99.086803,
         alt:         1118.5,    visualAlt: 1118.5,
         heading:     259,
@@ -3501,7 +3501,7 @@
     },
     {
         name:        "MMMX ANA",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/ANA%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-51@main/models/ANA%20787.glb ",
         visualLat:   19.437153, visualLon: -99.077470,
         alt:         1118.5,    visualAlt: 1118.5,
         heading:     225,
@@ -3545,7 +3545,7 @@
     // United
     {
         name:        "MMUN United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   21.037815, visualLon: -86.872779,
         alt:         4.88,      visualAlt: 4.88,
         heading:     297,
@@ -3838,7 +3838,7 @@
     },
     {
         name:        "SBGR United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         visualLat:   -23.423156, visualLon: -46.471473,
         alt:         375.5,    visualAlt: 375.5,
         heading:     348,
@@ -3897,7 +3897,7 @@
     // United
     {
         name:        "SKBO United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         visualLat:   4.698088,   visualLon: -74.145488,
         alt:         1271.5,     visualAlt: 1271.5,
         heading:     317,
@@ -3905,7 +3905,7 @@
     },
     {
         name:        "SKBO United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   4.697640,   visualLon: -74.144888,
         alt:         1271.5,     visualAlt: 1271.5,
         heading:     317,
@@ -3913,7 +3913,7 @@
     },
     {
         name:        "SKBO United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   4.697207,   visualLon: -74.144324,
         alt:         1271.5,     visualAlt: 1271.5,
         heading:     317,
@@ -4183,7 +4183,7 @@
     // United
     {
         name:        "SCEL United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   -33.400456, visualLon: -70.797786,
         alt:         240.6,      visualAlt: 240.6,
         heading:     271,
@@ -4191,7 +4191,7 @@
     },
     {
         name:        "SCEL United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   -33.400420, visualLon: -70.796873,
         alt:         240.6,      visualAlt: 240.6,
         heading:     279,
@@ -4317,7 +4317,7 @@
     // United
     {
         name:        "SAEZ United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   -34.814785, visualLon: -58.538004,
         alt:         10.1,       visualAlt: 10.1,
         heading:     232,
@@ -4414,7 +4414,7 @@
     },
     {
         name:        "SBGL United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   -22.815488, visualLon: -43.247386,
         alt:         2.2,       visualAlt: 2.2,
         heading:     301,
@@ -4491,7 +4491,7 @@
     // United
     {
         name:        "MPTO United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   9.064515,   visualLon: -79.387040,
         alt:         7.5,        visualAlt: 7.5,
         heading:     298,
@@ -4499,7 +4499,7 @@
     },
     {
         name:        "MPTO United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   9.064859,   visualLon: -79.387399,
         alt:         7.5,        visualAlt: 7.5,
         heading:     0,
@@ -4524,7 +4524,7 @@
     },
     {
         name:        "MPTO Westjet",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Westjet%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/Westjet%20787.glb ",
         visualLat:   9.061531, visualLon: -79.389970,
         alt:         7.5,       visualAlt: 7.5,
         heading:     210,
@@ -4558,7 +4558,7 @@
     // Lufthansa
     {
         name:        "EGLL Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A320N%20100%20years%20livery.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A320N%20100%20years%20livery.glb",
         visualLat:   51.4684,   visualLon: -0.450433,
         alt:         12.4,      visualAlt: 12.4,
         heading:     270,
@@ -4567,7 +4567,7 @@
     // United
     {
         name:        "EGLL United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   51.46863,  visualLon: -0.448797,
         alt:         12.4,      visualAlt: 12.4,
         heading:     270,
@@ -5248,7 +5248,7 @@
     },
     {
         name:        "EHAM Austrian",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Austrian%20A320.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Austrian%20A320.glb",
         visualLat:   52.304600, visualLon: 4.762686,
         alt:         -1,        visualAlt: -1,
         heading:     135,
@@ -5264,7 +5264,7 @@
     },
     {
         name:        "EHAM United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
         visualLat:   52.304997, visualLon: 4.765740,
         alt:         -1,        visualAlt: -1,
         heading:     315,
@@ -5304,7 +5304,7 @@
     },
     {
         name:        "EHAM ANA",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/ANA%20787.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-51@main/models/ANA%20787.glb ",
         visualLat:   52.307166, visualLon: 4.773393,
         alt:         -1,        visualAlt: -1,
         heading:     275,
@@ -5477,7 +5477,7 @@
     // United
     {
         name:        "LTFM United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         visualLat:   41.26664,  visualLon: 28.74327,
         alt:         64.3,      visualAlt: 64.3,
         heading:     178,
@@ -5485,7 +5485,7 @@
     },
     {
         name:        "LTFM United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         visualLat:   41.26726,  visualLon: 28.74159,
         alt:         64.3,      visualAlt: 64.3,
         heading:     355,
@@ -5684,7 +5684,7 @@
     // United
     {
         name:        "LFPG United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         visualLat:   49.01499,  visualLon: 2.545723,
         alt:         52.3,      visualAlt: 52.3,
         heading:     165,
@@ -5692,7 +5692,7 @@
     },
     {
         name:        "LFPG United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         visualLat:   49.01432,  visualLon: 2.545809,
         alt:         52.3,      visualAlt: 52.3,
         heading:     194,
@@ -5875,7 +5875,7 @@
     // Philippines Airlines
     {
         name:        "LFPG Philippines Airlines",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20777.glb ",
         lat:         49.0072,   lon: 2.577963,
         visualLat:   49.0072,   visualLon: 2.577963,
         alt:         52.3,      visualAlt: 52.3,
@@ -5959,7 +5959,7 @@
     // Austrian
     {
         name:        "LFPG Austrian",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Austrian%20A320.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Austrian%20A320.glb",
         lat:         49.0023,   lon: 2.59176,
         visualLat:   49.0023,   visualLon: 2.59176,
         alt:         52.3,      visualAlt: 52.3,
@@ -6020,7 +6020,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A330.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A330.glb",
         lat:         50.04692,  lon: 8.560304,
         visualLat:   50.04692,  visualLon: 8.560304,
         alt:         49.8,      visualAlt: 49.8,
@@ -6047,7 +6047,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A330.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A330.glb",
         lat:         50.04826,  lon: 8.565716,
         visualLat:   50.04826,  visualLon: 8.565716,
         alt:         49.8,      visualAlt: 49.8,
@@ -6083,7 +6083,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A330.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A330.glb",
         lat:         50.04803,  lon: 8.572089,
         visualLat:   50.04803,  visualLon: 8.572089,
         alt:         49.8,      visualAlt: 49.8,
@@ -6267,7 +6267,7 @@
     // Austrian
     {
         name:        "EDDF Austrian",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Austrian%20A320.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Austrian%20A320.glb",
         lat:         50.0473,   lon: 8.582287,
         visualLat:   50.0473,   visualLon: 8.582287,
         alt:         49.8,      visualAlt: 49.8,
@@ -6277,7 +6277,7 @@
     // United
     {
         name:        "EDDF United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         lat:         50.04805,  lon: 8.585087,
         visualLat:   50.04805,  visualLon: 8.585087,
         alt:         49.8,      visualAlt: 49.8,
@@ -6367,7 +6367,7 @@
     // United
     {
         name:        "LEMD United",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
         lat:         40.4617,   lon: -3.571205,
         visualLat:   40.4617,   visualLon: -3.571205,
         alt:         298.4,     visualAlt: 298.4,
@@ -6854,7 +6854,7 @@
 },
 {
     name:        "LIRF United",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
     visualLat:   41.799325, visualLon: 12.252465,
     alt:         6.0,       visualAlt: 6.0,
     heading:     27,
@@ -7271,7 +7271,7 @@
     // Lufthansa
     {
         name:        "EIDW Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A330.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A330.glb",
         lat:         53.42653,  lon: -6.246891,
         visualLat:   53.42653,  visualLon: -6.246891,
         alt:         28,        visualAlt: 28,
@@ -8293,7 +8293,7 @@
 },
 {
     name:        "OMDB Philippines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20777.glb ",
     visualLat:   25.257718,  visualLon: 55.346869,
     alt:         1.05,      visualAlt: 1.05,
     heading:     123,
@@ -8501,7 +8501,7 @@
 },
 {
     name:        "RJTT Japan Airlines 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   35.550146,  visualLon: 139.782149,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     330,
@@ -8509,7 +8509,7 @@
 },
 {
     name:        "RJTT Japan Airlines 2",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb ",
     visualLat:   35.550831,   visualLon: 139.781414,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     298,
@@ -8517,7 +8517,7 @@
 },
 {
     name:        "RJTT Japan Airlines 3",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   35.546571,   visualLon: 139.784847,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     330,
@@ -8533,7 +8533,7 @@
 },
 {
     name:        "RJTT Japan Airlines 5",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   35.551310,  visualLon: 139.780373,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     341,
@@ -8541,7 +8541,7 @@
 },
 {
     name:        "RJTT Japan Airlines 6",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   35.54967,  visualLon: 139.7824,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     330,
@@ -8549,7 +8549,7 @@
 },
 {
     name:        "RJTT Japan Airlines 7",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   35.545318,  visualLon: 139.784681,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     350,
@@ -8677,7 +8677,7 @@
 },
 {
     name:        "RJTT United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   35.542760,  visualLon: 139.772016,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     145,
@@ -9671,7 +9671,7 @@
 },
 {
     name:        "VIDP Japan Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   28.551513,  visualLon: 77.088870,
     alt:         119,    visualAlt: 119,
     heading:     135,
@@ -10519,7 +10519,7 @@
 },
 {
     name:        "WSSS United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   1.353034,  visualLon: 103.9891,
     alt:         2.84,      visualAlt: 2.84,
     heading:     203,
@@ -10543,7 +10543,7 @@
 },
 {
     name:        "WSSS Phillipines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   1.357509,  visualLon: 103.990901,
     alt:         2.84,      visualAlt: 2.84,
     heading:     203,
@@ -10583,7 +10583,7 @@
 },
 {
     name:        "WSSS ANA",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/ANA%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-51@main/models/ANA%20787.glb ",
     visualLat:   1.360050,  visualLon: 103.991974,
     alt:         2.84,      visualAlt: 2.84,
     heading:     203,
@@ -10895,7 +10895,7 @@
 },
 {
     name:        "RKSI Japan Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb ",
     visualLat:   37.467221, visualLon: 126.429669,
     alt:         2.05,      visualAlt: 2.05,
     heading:     330,
@@ -10919,7 +10919,7 @@
 },
 {
     name:        "RKSI Phillipines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   37.462529, visualLon: 126.432780,
     alt:         2.05,      visualAlt: 2.05,
     heading:     340,
@@ -11007,7 +11007,7 @@
 },
 {
     name:        "RKSI United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   37.446719, visualLon: 126.447342,
     alt:         2.05,      visualAlt: 2.05,
     heading:     10,
@@ -11207,7 +11207,7 @@
 },
 {
     name:        "WIII Phillipines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   -6.120694, visualLon: 106.654420,
     alt:         4.2,       visualAlt: 4.2,
     heading:     85,
@@ -11239,7 +11239,7 @@
 },
 {
     name:        "WIII ANA",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/ANA%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-51@main/models/ANA%20787.glb ",
     visualLat:   -6.120777, visualLon: 106.656306,
     alt:         4.2,       visualAlt: 4.2,
     heading:     145,
@@ -11455,7 +11455,7 @@
 },
 {
     name:        "WMKK Japan Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb ",
     visualLat:   2.747161,  visualLon: 101.7115,
     alt:         12.05,     visualAlt: 12.05,
     heading:     55,
@@ -11847,7 +11847,7 @@
 },
 {
     name:        "VTBS Japan Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   13.681331,  visualLon: 100.749005,
     alt:         1.83,      visualAlt: 1.83,
     heading:     286,
@@ -12047,7 +12047,7 @@
 },
 {
     name:        "VTBS Phillipines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   13.697255, visualLon: 100.758888,
     alt:         1.83,       visualAlt: 1.83,
     heading:     25,
@@ -12327,7 +12327,7 @@
 },
 {
     name:        "OTHH Japan Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   25.267698, visualLon: 51.607692,
     alt:         1.6,       visualAlt: 1.6,
     heading:     275,
@@ -12343,7 +12343,7 @@
 },
 {
     name:        "OTHH Phillipines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   25.269971, visualLon: 51.609537,
     alt:         1.6,       visualAlt: 1.6,
     heading:     50,
@@ -12655,7 +12655,7 @@
 },
 {
     name:        "VHHH United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   22.317276, visualLon: 113.929599,
     alt:         2,       visualAlt: 2,
     heading:     348,
@@ -12855,7 +12855,7 @@
 },
 {
     name:        "YSSY United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   -33.940342, visualLon: 151.164617,
     alt:         2,        visualAlt: 2,
     heading:     251,
@@ -12887,7 +12887,7 @@
 },
 {
     name:        "YSSY Phillipines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20777.glb ",
     visualLat:   -33.934033, visualLon: 151.167589,
     alt:         2,        visualAlt: 2,
     heading:     173,
@@ -12935,7 +12935,7 @@
 },
 {
     name:        "YSSY ANA",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-4@main/models/ANA%20787.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-51@main/models/ANA%20787.glb ",
     visualLat:   -33.935902, visualLon: 151.179122,
     alt:         2,        visualAlt: 2,
     heading:     7,
@@ -13071,7 +13071,7 @@
 },
 {
     name:        "YMML United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   -37.668265, visualLon: 144.843541,
     alt:         56.6,       visualAlt: 56.6,
     heading:     344,
@@ -13111,7 +13111,7 @@
 },
 {
     name:        "YMML Japan Airlines",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Japan%20Airlines%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20787.glb",
     visualLat:   -37.671216, visualLon: 144.845872,
     alt:         57.2,       visualAlt: 57.2,
     heading:     258,
@@ -13199,7 +13199,7 @@
 },
 {
     name:        "NZAA United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   -37.006349, visualLon: 174.781985,
     alt:         5.63,       visualAlt: 5.63,
     heading:     28,
@@ -13511,7 +13511,7 @@
 },
 {
     name:        "LEPA United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/United%20B777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
     visualLat:   39.548351, visualLon: 2.738409,
     alt:         -0.8,      visualAlt: -0.8,
     heading:     160,
@@ -13647,7 +13647,7 @@
 },
 {
     name:        "KDJT United 1",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
     visualLat:   26.68695,  visualLon: -80.09255,
     alt:         5,         visualAlt: 5,
     heading:     233,
@@ -13655,7 +13655,7 @@
 },
 {
     name:        "KDJT United 2",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20767.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
     visualLat:   26.68734,  visualLon: -80.09200,
     alt:         5,         visualAlt: 5,
     heading:     235,
@@ -13815,7 +13815,7 @@
 },
 {
     name:        "RPVE Phillipine Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   11.92621,  visualLon: 121.9635,
     alt:         3.25,      visualAlt: 3.25,
     heading:     65,
@@ -13847,7 +13847,7 @@
 },
   {
     name:        "Philippines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   14.521924,
     visualLon:  121.009992,
     alt:         4.2,
@@ -13857,7 +13857,7 @@
   },
   {
     name:        "Philippines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   14.519921,
     visualLon:  121.011864,
     alt:         4.2,
@@ -13867,7 +13867,7 @@
   },
   {
     name:        "Philippines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   14.518975,
     visualLon:  121.012830,
     alt:         4.2,
@@ -13877,7 +13877,7 @@
   },
   {
     name:        "Philippines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   14.516134,
     visualLon:  121.015780,
     alt:         4.2,
@@ -13887,7 +13887,7 @@
   },
   {
     name:        "Philippines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   14.515688,
     visualLon:  121.016263,
     alt:         4.2,
@@ -13897,7 +13897,7 @@
   },
   {
     name:        "Philippines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   14.516638,
     visualLon:  121.016918,
     alt:         4.2,
@@ -13907,7 +13907,7 @@
   },
   {
     name:        "Philippines Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/PAL%20A320.glb ",
     visualLat:   14.517292,
     visualLon:  121.016129,
     alt:         4.2,
@@ -14077,7 +14077,7 @@
   },
   {
     name:        "United",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20737.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
     visualLat:   14.504854,
     visualLon:  121.006473,
     alt:         4.2,
