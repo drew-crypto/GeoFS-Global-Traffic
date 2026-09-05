@@ -1382,7 +1382,7 @@
 },
 {
     name:        "KSFO united 777",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+    model:       "https: // to determine ",
     visualLat:   37.619917, visualLon: -122.388167,
     alt:         1.4,        visualAlt: 1.4,
     heading:     298,
@@ -2830,7 +2830,7 @@
     },
     {
         name:        "CYUL United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         visualLat:   45.459140, visualLon: -73.749518,
         alt:         14.57,     visualAlt: 14.57,
         heading:     90,
@@ -3838,7 +3838,7 @@
     },
     {
         name:        "SBGR United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         visualLat:   -23.423156, visualLon: -46.471473,
         alt:         375.5,    visualAlt: 375.5,
         heading:     348,
@@ -3897,7 +3897,7 @@
     // United
     {
         name:        "SKBO United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         visualLat:   4.698088,   visualLon: -74.145488,
         alt:         1271.5,     visualAlt: 1271.5,
         heading:     317,
@@ -5477,7 +5477,7 @@
     // United
     {
         name:        "LTFM United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         visualLat:   41.26664,  visualLon: 28.74327,
         alt:         64.3,      visualAlt: 64.3,
         heading:     178,
@@ -5485,7 +5485,7 @@
     },
     {
         name:        "LTFM United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         visualLat:   41.26726,  visualLon: 28.74159,
         alt:         64.3,      visualAlt: 64.3,
         heading:     355,
@@ -5503,7 +5503,7 @@
     // Lufthansa
     {
         name:        "LTFM Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A380.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A380.glb",
         visualLat:   41.2673,   visualLon: 28.75001,
         alt:         64.3,      visualAlt: 64.3,
         heading:     181,
@@ -5684,7 +5684,7 @@
     // United
     {
         name:        "LFPG United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         visualLat:   49.01499,  visualLon: 2.545723,
         alt:         52.3,      visualAlt: 52.3,
         heading:     165,
@@ -5692,7 +5692,7 @@
     },
     {
         name:        "LFPG United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         visualLat:   49.01432,  visualLon: 2.545809,
         alt:         52.3,      visualAlt: 52.3,
         heading:     194,
@@ -6029,7 +6029,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A380.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A380.glb",
         lat:         50.04779,  lon: 8.563727,
         visualLat:   50.04779,  visualLon: 8.563727,
         alt:         49.8,      visualAlt: 49.8,
@@ -6065,7 +6065,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A380.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A380.glb",
         lat:         50.04711,  lon: 8.568124,
         visualLat:   50.04711,  visualLon: 8.568124,
         alt:         49.8,      visualAlt: 49.8,
@@ -6074,7 +6074,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A380.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A380.glb",
         lat:         50.04658,  lon: 8.572244,
         visualLat:   50.04658,  visualLon: 8.572244,
         alt:         49.8,      visualAlt: 49.8,
@@ -6092,7 +6092,7 @@
     },
     {
         name:        "EDDF Lufthansa",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A380.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A380.glb",
         lat:         50.04899,  lon: 8.569739,
         visualLat:   50.04899,  visualLon: 8.569739,
         alt:         49.8,      visualAlt: 49.8,
@@ -6117,7 +6117,7 @@
 },
 {
     name:        "EDDF Lufthansa",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A380.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A380.glb",
     visualLat:   50.031521, visualLon: 8.574988,
     alt:         49.8,     visualAlt: 49.8,
     heading:     120,
@@ -6277,7 +6277,7 @@
     // United
     {
         name:        "EDDF United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         lat:         50.04805,  lon: 8.585087,
         visualLat:   50.04805,  visualLon: 8.585087,
         alt:         49.8,      visualAlt: 49.8,
@@ -6367,7 +6367,7 @@
     // United
     {
         name:        "LEMD United",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+        model:       "https: // to determine ",
         lat:         40.4617,   lon: -3.571205,
         visualLat:   40.4617,   visualLon: -3.571205,
         alt:         298.4,     visualAlt: 298.4,
@@ -6854,7 +6854,7 @@
 },
 {
     name:        "LIRF United",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+    model:       "https: // to determine ",
     visualLat:   41.799325, visualLon: 12.252465,
     alt:         6.0,       visualAlt: 6.0,
     heading:     27,
@@ -9591,7 +9591,7 @@
 },
 {
     name:        "VIDP Lufthansa",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A380.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A380.glb",
     visualLat:   28.551283,  visualLon: 77.082173,
     alt:         116.7,    visualAlt: 116.7,
     heading:     240,
@@ -11799,7 +11799,7 @@
 },
 {
     name:        "VTBS Lufthansa",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Lufthansa%20A380.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/Lufthansa%20A380.glb",
     visualLat:   13.69052,  visualLon: 100.7459,
     alt:         1.83,      visualAlt: 1.83,
     heading:     20,
@@ -13647,7 +13647,7 @@
 },
 {
     name:        "KDJT United 1",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+    model:       "https: // to determine ",
     visualLat:   26.68695,  visualLon: -80.09255,
     alt:         5,         visualAlt: 5,
     heading:     233,
@@ -13655,7 +13655,7 @@
 },
 {
     name:        "KDJT United 2",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20767.glb ",
+    model:       "https: // to determine ",
     visualLat:   26.68734,  visualLon: -80.09200,
     alt:         5,         visualAlt: 5,
     heading:     235,
