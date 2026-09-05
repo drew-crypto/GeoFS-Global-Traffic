@@ -951,7 +951,7 @@
 },
 {
     name:        "KEWR Japan Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb",
     visualLat:   40.695501, visualLon: -74.172773,
     alt:         3.6,       visualAlt: 3.6,
     heading:     240,
@@ -2367,7 +2367,7 @@
 },
 {
     name:        "KJFK Japan Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb",
     visualLat:   40.649970, visualLon: -73.794070,
     alt:         4.2,        visualAlt: 4.2,
     heading:     65,
@@ -3003,7 +3003,7 @@
     },
     {
         name:        "CYVR Japan Airlines",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb",
         visualLat:   49.192039, visualLon: -123.182053,
         alt:         1.75,      visualAlt: 1.75,
         heading:     280,
@@ -4654,7 +4654,7 @@
     },
     {
         name:        "EGLL Japan Airlines",
-        model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20777.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb",
         visualLat:   51.46865,  visualLon: -0.456999,
         alt:         12.4,      visualAlt: 12.4,
         heading:     270,
@@ -8525,7 +8525,7 @@
 },
 {
     name:        "RJTT Japan Airlines 4",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb",
     visualLat:   35.55194,  visualLon: 139.7802,
     alt:         -1.4,      visualAlt: -1.4,
     heading:     60,
@@ -13977,7 +13977,7 @@
   },
   {
     name:        "Japan Airlines",
-    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20777.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-50@main/models/JAL%20777.glb",
     visualLat:   14.503878,
     visualLon:  121.004628,
     alt:         4.2,
