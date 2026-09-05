@@ -13845,7 +13845,6 @@
     heading:     47,
     scale:       1
 },
-[
   {
     name:        "Philippines Airlines",
     model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
@@ -14135,8 +14134,7 @@
     visualAlt:   4.2,
     heading:     255,
     scale:       1
-  }
-]
+  },
 {
     name:        "ENOE Norse",
     model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Norse%20787.glb",
