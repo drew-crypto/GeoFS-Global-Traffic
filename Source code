@@ -13845,6 +13845,298 @@
     heading:     47,
     scale:       1
 },
+[
+  {
+    name:        "Philippines Airlines",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    visualLat:   14.521924,
+    visualLon:  121.009992,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Philippines Airlines",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    visualLat:   14.519921,
+    visualLon:  121.011864,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Philippines Airlines",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    visualLat:   14.518975,
+    visualLon:  121.012830,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Philippines Airlines",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    visualLat:   14.516134,
+    visualLon:  121.015780,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Philippines Airlines",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    visualLat:   14.515688,
+    visualLon:  121.016263,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Philippines Airlines",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    visualLat:   14.516638,
+    visualLon:  121.016918,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     140,
+    scale:       1
+  },
+  {
+    name:        "Philippines Airlines",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/PAL%20A320.glb",
+    visualLat:   14.517292,
+    visualLon:  121.016129,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     140,
+    scale:       1
+  },
+  {
+    name:        "Cebu Pacific",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Cebu%20Pacific%20A320.glb",
+    visualLat:   14.518524,
+    visualLon:  121.013323,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Cebu Pacific",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Cebu%20Pacific%20A320.glb",
+    visualLat:   14.518040,
+    visualLon:  121.013817,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Philippines Air Asia",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Asia%20A320.glb",
+    visualLat:   14.521431,
+    visualLon:  121.010539,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Philippines Air Asia",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-3@main/models/Air%20Asia%20A320.glb",
+    visualLat:   14.520969,
+    visualLon:  121.010968,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Air China",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-45-1-@main/models/China%20Airlines%20B737.glb",
+    visualLat:   14.510073,
+    visualLon:  121.013747,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     140,
+    scale:       1
+  },
+  {
+    name:        "China Southern",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-27@main/models/China%20Southern%20A330.glb",
+    visualLat:   14.508267,
+    visualLon:  121.012347,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     255,
+    scale:       1
+  },
+  {
+    name:        "Japan Airlines",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/JAL%20777.glb",
+    visualLat:   14.503878,
+    visualLon:  121.004628,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     230,
+    scale:       1
+  },
+  {
+    name:        "ANA",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/ANA%20787.glb",
+    visualLat:   14.510385,
+    visualLon:  121.013398,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     140,
+    scale:       1
+  },
+  {
+    name:        "ANA",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/ANA%20A320.glb",
+    visualLat:   14.510748,
+    visualLon:  121.013034,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     140,
+    scale:       1
+  },
+  {
+    name:        "Korean Air",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Korean%20Air%20787.glb",
+    visualLat:   14.503790,
+    visualLon:  121.003802,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     315,
+    scale:       1
+  },
+  {
+    name:        "HK Express",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/HK%20Express%20A320.glb",
+    visualLat:   14.520512,
+    visualLon:  121.011435,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Singapore Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Singapore%20A350.glb",
+    visualLat:   14.517027,
+    visualLon:  121.014809,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     320,
+    scale:       1
+  },
+  {
+    name:        "Vietjet",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-40@main/models/Vietjet%20A321.glb",
+    visualLat:   14.509632,
+    visualLon:  121.014348,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     180,
+    scale:       1
+  },
+  {
+    name:        "Qatar Airways",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-15@main/models/Qatar%20A350.glb",
+    visualLat:   14.511251,
+    visualLon:  121.012610,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     140,
+    scale:       1
+  },
+  {
+    name:        "Ethiopian",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
+    visualLat:   14.508957,
+    visualLon:  121.013479,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     255,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20B777.glb",
+    visualLat:   14.504615,
+    visualLon:  121.004102,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     35,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/United%20737.glb",
+    visualLat:   14.504854,
+    visualLon:  121.006473,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20787.glb",
+    visualLat:   14.505134,
+    visualLon:  121.006924,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     210,
+    scale:       1
+  },
+  {
+    name:        "KLM",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/KLM%20777.glb",
+    visualLat:   14.505566,
+    visualLon:  121.006827,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     150,
+    scale:       1
+  },
+  {
+    name:        "Turkish",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Turkish%20777.glb",
+    visualLat:   14.505700,
+    visualLon:  121.006328,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "Malaysia Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-9@main/models/Malaysia%20Airlines%20737.glb",
+    visualLat:   14.505716,
+    visualLon:  121.005223,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     150,
+    scale:       1
+  },
+  {
+    name:        "Qantas",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-21@main/models/Qantas%20B787.glb",
+    visualLat:   14.508614,
+    visualLon:  121.012905,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     255,
+    scale:       1
+  }
+]
 {
     name:        "ENOE Norse",
     model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/Norse%20787.glb",
