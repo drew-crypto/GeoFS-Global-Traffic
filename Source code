@@ -14150,7 +14150,493 @@
     alt:         602.4,   visualAlt: 602.4,
     heading:     253,
     scale:       1
-}];
+},
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb",
+    visualLat:   38.945055,
+    visualLon:  -77.442078,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945030,
+    visualLon:  -77.442657,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945005,
+    visualLon:  -77.444310,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb",
+    visualLat:   38.944988,
+    visualLon:  -77.446262,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb",
+    visualLat:   38.944796,
+    visualLon:  -77.445114,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.944955,
+    visualLon:  -77.447142,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb",
+    visualLat:   38.944963,
+    visualLon:  -77.448322,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945038,
+    visualLon:  -77.449309,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945005,
+    visualLon:  -77.450275,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945071,
+    visualLon:  -77.451691,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb",
+    visualLat:   38.945063,
+    visualLon:  -77.452700,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
+    visualLat:   38.945697,
+    visualLon:  -77.441939,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945730,
+    visualLon:  -77.442722,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945714,
+    visualLon:  -77.444417,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945730,
+    visualLon:  -77.445930,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945805,
+    visualLon:  -77.447024,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945772,
+    visualLon:  -77.447464,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945755,
+    visualLon:  -77.448741,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945764,
+    visualLon:  -77.449653,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945797,
+    visualLon:  -77.450683,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945755,
+    visualLon:  -77.452077,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20777.glb ",
+    visualLat:   38.945772,
+    visualLon:  -77.452903,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945805,
+    visualLon:  -77.453365,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945880,
+    visualLon:  -77.454051,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-49@main/models/United%20737.glb",
+    visualLat:   38.945930,
+    visualLon:  -77.454792,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "United",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-12@main/models/United%20A320.glb",
+    visualLat:   38.945139,
+    visualLon:  -77.454588,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     315,
+    scale:       1
+  },
+
+  {
+    name:        "Delta",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   38.948291,
+    visualLon:  -77.454191,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "Delta",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   38.948341,
+    visualLon:  -77.453182,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "Delta",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Delta%20A320.glb",
+    visualLat:   38.948291,
+    visualLon:  -77.452345,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "Delta",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-7@main/models/Delta%20E170.glb",
+    visualLat:   38.948316,
+    visualLon:  -77.450801,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+  {
+    name:        "Delta",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-7@main/models/Delta%20E170.glb",
+    visualLat:   38.948316,
+    visualLon:  -77.450071,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+
+  {
+    name:        "American",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   38.949250,
+    visualLon:  -77.454363,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "American",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   38.949233,
+    visualLon:  -77.453311,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+  {
+    name:        "American",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/American%20737.glb",
+    visualLat:   38.949283,
+    visualLon:  -77.452367,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+
+  {
+    name:        "Air China",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20China%20787.glb",
+    visualLat:   38.948352,
+    visualLon:  -77.447309,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+
+  {
+    name:        "Emirates",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Emirates%20777.glb",
+    visualLat:   38.948369,
+    visualLon:  -77.446285,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+
+  {
+    name:        "Air India",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20India%20787.glb",
+    visualLat:   38.948303,
+    visualLon:  -77.450762,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+
+  {
+    name:        "Austrian",
+    model:       "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Austrian%20A320.glb",
+    visualLat:   38.948294,
+    visualLon:  -77.450120,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+
+  {
+    name:        "Brussels Airlines",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-34@main/models/Brussels%20Airlines.glb",
+    visualLat:   38.949128,
+    visualLon:  -77.450244,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+
+  {
+    name:        "Egyptair",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-35@main/models/Egyptair%20A330.glb",
+    visualLat:   38.948336,
+    visualLon:  -77.448296,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+
+  {
+    name:        "Ethiopian",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-39@main/models/Ethiopian%20B787.glb",
+    visualLat:   38.949157,
+    visualLon:  -77.448371,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+
+  {
+    name:        "Air France",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Air%20France%20777.glb",
+    visualLat:   38.948311,
+    visualLon:  -77.444863,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+
+  {
+    name:        "KLM",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-18@main/models/KLM%20777.glb",
+    visualLat:   38.949107,
+    visualLon:  -77.446446,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+
+  {
+    name:        "Royal Air Maroc",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-23@main/models/Royal%20Air%20Maroc%20787.glb",
+    visualLat:   38.949149,
+    visualLon:  -77.445544,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+
+  {
+    name:        "Virgin Atlantic",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Virgin%20Atlantic%20A330.glb",
+    visualLat:   38.949136,
+    visualLon:  -77.444842,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     90,
+    scale:       1
+  },
+
+  {
+    name:        "Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-43@main/models/Air%20Canada%20A320.glb",
+    visualLat:   38.951640,
+    visualLon:  -77.446805,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  },
+{
+    name:        "Air Canada",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
+    visualLat:   38.951610,
+    visualLon:  -77.445957,
+    alt:         4.2,
+    visualAlt:   4.2,
+    heading:     270,
+    scale:       1
+  }
+];
 
         // This Map keeps track of which models are currently spawned in the world
         const loadedEntities = new Map();
