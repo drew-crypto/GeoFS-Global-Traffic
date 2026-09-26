@@ -546,7 +546,7 @@
 },
 {
     name:        "KLAX Air Canada",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
     visualLat:   33.941048, visualLon: -118.409735,
     alt:         22,        visualAlt: 22,
     heading:     150,
@@ -662,7 +662,7 @@
     // Air Canada
     {
         name:        "KBOS Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   42.360432, visualLon: -71.017024,
         alt:         1.5,       visualAlt: 1.5,
         heading:     180,
@@ -1055,7 +1055,7 @@
 },
 {
     name:        "KEWR Air Canada",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
     visualLat:   40.686349, visualLon: -74.181983,
     alt:         3,       visualAlt: 3,
     heading:     160,
@@ -1139,7 +1139,7 @@
     // Air Canada
     {
         name:        "KORD Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   41.974476, visualLon: -87.909748,
         alt:         97.95,      visualAlt: 97.95,
         heading:     10,
@@ -2505,7 +2505,7 @@
     // Air Canada
     {
         name:        "CYYZ Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   43.679900, visualLon: -79.612528,
         alt:         82,        visualAlt: 82,
         heading:     325,
@@ -2730,7 +2730,7 @@
     // Air Canada
     {
         name:        "CYUL Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   45.459446, visualLon: -73.753918,
         alt:         14.57,      visualAlt: 14.57,
         heading:     122,
@@ -2746,7 +2746,7 @@
     },
     {
         name:        "CYUL Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   45.459642, visualLon: -73.755307,
         alt:         14.57,      visualAlt: 14.57,
         heading:     90,
@@ -2936,7 +2936,7 @@
     },
     {
         name:        "CYVR Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   49.195921, visualLon: -123.183940,
         alt:         2.2,       visualAlt: 2.2,
         heading:     93,
@@ -2944,7 +2944,7 @@
     },
     {
         name:        "CYVR Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   49.198633, visualLon: -123.183796,
         alt:         2.2,       visualAlt: 2.2,
         heading:     284,
@@ -3253,7 +3253,7 @@
 },
 {
     name: "CYYC Air Canada",
-    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
     visualLat:   51.132789, visualLon: -114.015778,
     alt:         1079.4,    visualAlt: 0,
     heading:     0,
@@ -3286,7 +3286,7 @@
 },
 {
     name: "CYLW Air Canada",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
     visualLat:   49.952003, visualLon: -119.380353,
     alt:         420,    visualAlt: 0,
     heading:     219,
@@ -3367,7 +3367,7 @@
 },
 {
     name: "CYYJ Air Canada",
-    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+    model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
     visualLat:   48.641011, visualLon: -123.429846,
     alt:         14.5,    visualAlt: 0,
     heading:     138,
@@ -3594,7 +3594,7 @@
     },
     {
         name:        "MMUN Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   21.036446, visualLon: -86.867719,
         alt:         4.63,      visualAlt: 4.63,
         heading:     225,
@@ -3687,7 +3687,7 @@
     },
     {
         name:        "PANC Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   61.175890, visualLon: -149.984826,
         alt:         15.2,      visualAlt: 15.2,
         heading:     10,
@@ -4216,7 +4216,7 @@
     },
     {
         name:        "SCEL Air Canada",
-        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Air%20Canada%20737.glb",
+        model:       "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-44@main/models/Air%20Canada%20A319.glb",
         visualLat:   -33.400127, visualLon: -70.790486,
         alt:         241,     visualAlt: 241,
         heading:     265,
