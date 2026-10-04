@@ -6007,6 +6007,277 @@
     scale:       1
 },
 
+// LFPO (Paris-Orly) //
+{
+    name: "French Bee",
+    model: "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Frenchbee%20A330.glb",
+    visualLat: 48.730068,
+    visualLon: 2.375999,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 195,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.726658,
+    visualLon: 2.365034,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 250,
+    scale: 1
+  },
+  {
+    name: "Vueling",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-37@main/models/Vueling%20A320NEO.glb",
+    visualLat: 48.730639,
+    visualLon: 2.359224,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 50,
+    scale: 1
+  },
+  {
+    name: "Royal Air Maroc",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-25@main/models/Royal%20Air%20Maroc%20737.glb",
+    visualLat: 48.729454,
+    visualLon: 2.375612,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 210,
+    scale: 1
+  },
+  {
+    name: "Easyjet",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Easyjet%20A320.glb",
+    visualLat: 48.729870,
+    visualLon: 2.357110,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 160,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.725711,
+    visualLon: 2.360399,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 270,
+    scale: 1
+  },
+  {
+    name: "ITA Airways",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-52@main/models/ITA%20Airways%20A320N.glb",
+    visualLat: 48.728456,
+    visualLon: 2.358521,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 320,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.727437,
+    visualLon: 2.368414,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 250,
+    scale: 1
+  },
+  {
+    name: "Corsair",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-22@main/models/Corsair%20A330.glb",
+    visualLat: 48.728359,
+    visualLon: 2.373305,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 260,
+    scale: 1
+  },
+  {
+    name: "Vueling",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-37@main/models/Vueling%20A320NEO.glb",
+    visualLat: 48.731434,
+    visualLon: 2.361010,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 80,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.726008,
+    visualLon: 2.361494,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 250,
+    scale: 1
+  },
+  {
+    name: "Tunisair",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-36@main/models/Tunisair%20A320.glb",
+    visualLat: 48.727457,
+    visualLon: 2.370430,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 260,
+    scale: 1
+  },
+  {
+    name: "Easyjet",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Easyjet%20A320.glb",
+    visualLat: 48.729655,
+    visualLon: 2.358027,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 80,
+    scale: 1
+  },
+  {
+    name: "Wizz",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-13@main/models/Wizz%20A320NEO.glb",
+    visualLat: 48.726201,
+    visualLon: 2.358269,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 320,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.727146,
+    visualLon: 2.366729,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 250,
+    scale: 1
+  },
+  {
+    name: "Air Algérie",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-52@main/models/Air%20Alg%C3%A9rie%20737.glb",
+    visualLat: 48.730585,
+    visualLon: 2.375853,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 170,
+    scale: 1
+  },
+  {
+    name: "TAP",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-1@main/models/TAP%20A320.glb",
+    visualLat: 48.728551,
+    visualLon: 2.357588,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 290,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.726446,
+    visualLon: 2.363865,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 250,
+    scale: 1
+  },
+  {
+    name: "Vueling",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-37@main/models/Vueling%20A320NEO.glb",
+    visualLat: 48.730338,
+    visualLon: 2.358870,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 50,
+    scale: 1
+  },
+  {
+    name: "Corsair",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-22@main/models/Corsair%20A330.glb",
+    visualLat: 48.728584,
+    visualLon: 2.374626,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 260,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.726955,
+    visualLon: 2.366043,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 250,
+    scale: 1
+  },
+  {
+    name: "Iberia",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-52@main/models/Iberia%20A320N.glb",
+    visualLat: 48.728420,
+    visualLon: 2.357051,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 280,
+    scale: 1
+  },
+  {
+    name: "Easyjet",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-32@main/models/Easyjet%20A320.glb",
+    visualLat: 48.728884,
+    visualLon: 2.356863,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 10,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.726192,
+    visualLon: 2.362588,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 250,
+    scale: 1
+  },
+  {
+    name: "French Bee",
+    model: "https://github.com/drew-crypto/Geofs-3D-models-47/raw/main/model/Frenchbee%20A330.glb",
+    visualLat: 48.729489,
+    visualLon: 2.375677,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 230,
+    scale: 1
+  },
+  {
+    name: "Vueling",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-37@main/models/Vueling%20A320NEO.glb",
+    visualLat: 48.731020,
+    visualLon: 2.359932,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 50,
+    scale: 1
+  },
+  {
+    name: "Transavia France",
+    model: "https://cdn.jsdelivr.net/gh/drew-crypto/Geofs-3D-models-53@main/models/Transavia%20737.glb",
+    visualLat: 48.727317,
+    visualLon: 2.367588,
+    alt: 4.2,
+    visualAlt: 4.2,
+    heading: 250,
+    scale: 1
+  },
     // === EDDF (Frankfurt Airport) ===
     // Lufthansa
     {
